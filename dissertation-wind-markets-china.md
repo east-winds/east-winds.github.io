@@ -22,3 +22,12 @@ Qualitatively, a picture emerges of a power system in transition. Grid operation
 Methodologically, engaging the model-building process and case interviews concurrently over the course of the study has demonstrated benefits of the multi-method approach: between field visits new features were added to the quantitative model, and model results helped improve depth of question guides in subsequent interviews. I will particularly note this with regard to processes underlying reserve sharing. The integrated lens using the quantitative model to test various counterfactuals is helpful in elucidating the effects of interacting institutions identified in the interviews, such as barriers to trade. Finally, cross-case comparisons and modeling lead to more precise scoping conditions. The optimization approach is potentially extensible to other sectors where technological parameters strongly affect institutional design.
 
 These findings raise serious questions about the ability of current reforms in China’s electricity sector to increase efficiency and achieve renewable energy integration goals: in particular, plans dominated by intra-provincial markets, rather than seeking to capture benefits from inter-provincial trading. Establishing trading arrangements among relatively autonomous jurisdictions is notoriously difficult. China's provinces in terms of political autonomy share similarities with EU member states, which have only recently made great strides toward integration, and Indian states -- indicating potential fruitful future cross-national comparisons of drivers and outcomes in energy and environmental politics. As renewable energy shares increase around the world, this dissertation can help illuminate a range of conflicts to be expected.
+
+**Committee**
+
+[J. Ignacio Pérez-Arriaga](http://www.iit.upcomillas.es/people/ignacio) (Chair), Professor & Director of the BP Chair on Energy & Sustainability, Instituto de Investigación Tecnológica (IIT), Universidad Pontificia Comillas, and Visiting Professor at MIT Sloan School of Management
+
+[Valerie J. Karplus](http://mitsloan.mit.edu/faculty-and-research/faculty-directory/detail/?id=29608), Assistant Professor of Global Economics and Management, MIT Sloan School of Management
+
+[Margaret Pearson](https://gvpt.umd.edu/facultyprofile/Pearson/Margaret), Professor of Government and Politics, University of Maryland
+
