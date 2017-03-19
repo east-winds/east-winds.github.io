@@ -6,8 +6,6 @@ tags: [papers]
 
 ---
 
-[Download](https://www.wider.unu.edu/publication/towards-political-economy-framework-wind-power)
-
 **Abstract**
 
 We propose a general taxonomy of the political economy challenges to wind power development and integration, highlighting the implications in terms of actors, interests, and risks. Applying this framework to three functions in China’s electricity sector—planning and project approval, generator cost recovery, and balancing area coordination—we find evidence of challenges common across countries with significant wind investments, despite institutional and industry characteristics that are unique to China.
