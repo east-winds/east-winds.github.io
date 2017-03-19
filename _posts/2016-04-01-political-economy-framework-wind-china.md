@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Toward a Political Economy Framework for Wind Integration: Does China Break the Mould?
+title: Toward a Political Economy Framework for Wind Integration - Does China Break the Mould?
 subtitle: Davidson, M. R., Kahrl, F., and Karplus, V. J. (2016). UNU-WIDER.
 tags: [papers]
 
@@ -13,7 +13,7 @@ We propose a general taxonomy of the political economy challenges to wind power 
 We argue that resolving these political economy challenges is as important to facilitating the role of wind and other renewable energies in a low carbon energy transition as providing dedicated technical and policy support. China is no exception.
 
 
-[Download](https://www.wider.unu.edu/publication/towards-political-economy-framework-wind-power)
+[Download Full Paper](https://www.wider.unu.edu/publication/towards-political-economy-framework-wind-power)
 
 Recommended citation:
 

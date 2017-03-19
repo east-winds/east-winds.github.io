@@ -6,12 +6,12 @@ tags: [papers]
 
 ---
 
-**Abstract**
+Grid-connected wind capacity has increased thirty-fold in China in the six years since the Renewable Energy Law was passed. At the end of 2012, China led the world in cumulative wind installations with 63 gigawatts (GW), while approved projects planned or under construction exceeded 44 GW (He, 2013). Despite the lead in capacity, however, China generated 30% less electricity from wind than the United States, which was a close second in terms of total installations.
 
-Computable general equilibrium (CGE) models seeking to evaluate the impacts of electricity policy face difficulties incorporating detail on the variable nature of renewable energy resources. To improve the accuracy of modeling renewable energy and climate policies, detailed scientific and engineering data are used to inform the parameterization of wind electricity in a new regional CGE model of China. Wind power density (WPD) in China is constructed using boundary layer flux data from the Modern Era Retrospective-analysis for Research and Applications (MERRA) dataset with a 0.5° latitude by 0.67° longitude spatial resolution. Wind resource data are used to generate production cost functions for wind at the provincial level for both onshore and offshore, incorporating technological parameters and geographical constraints. By using these updated wind production cost data to parameterize the wind electricity option in a CGE model, an illustrative policy analysis of the current feed-in tariff (FIT) for onshore wind electricity is performed. Assuming a generous penetration rate, no grid integration cost and no interprovincial interconnection, we find that the economic potential of wind exceeds China’s 2020 wind target by a large margin. Our analysis shows how wind electricity resource can be differentiated based on location and quality in a CGE model and then applied to analyze climate and energy policies.
+Reduced capacity factors have been attributed to high amounts of forced curtailment, which reached as high as 50% in some regions last year. The causes of curtailment are manifold: high penetrations of wind in provinces far from load centers, inflexibility of the coal-heavy generation mix, and institutional barriers owing to incomplete power deregulation. To address these shortfalls and other chronic power challenges, China’s grid companies propose to significantly expand long-distance ultrahigh-voltage (UHV) interconnections as well as strengthen interprovincial and intraprovincial ties. These will reportedly double wind utilization by 2020 (State Grid, 2010). However, institutional hurdles to better integrating wind, ranging from an intense debate within China over the future structure of the grid to inflexible transmission operation and pricing, threaten to delay or derail benefits of interconnection.
 
 
-[Download](https://www.iaee.org/en/publications/newsletterdl.aspx?id=216)
+[Download Full Paper](https://www.iaee.org/en/publications/newsletterdl.aspx?id=216)
 
 Recommended citation:
 

@@ -12,7 +12,7 @@ Expanding the use of wind energy for electricity generation forms an integral pa
 China, the world’s largest energy consumer and greenhouse gas emitter, has made deploying wind-generated electricity a cornerstone of long-term plans to mitigate climate change, air pollution and other energy-related environmental impacts. Following rapid expansion in recent years, especially in remote, less populous areas, wind has faced significant challenges integrating into the coal-heavy power grid owing to its fundamental operational differences compared to conventional energy sources. We present the first assessment of China’s wind energy potential and its regional distribution that incorporates an operational model of the grid and undertakes systematic exploration of key uncertainties.
 
 
-[Paper](http://www.nature.com/articles/nenergy201686) (subscription required)
+[Access Full Paper](http://www.nature.com/articles/nenergy201686) (subscription required)
 
 Recommended citation:
 
