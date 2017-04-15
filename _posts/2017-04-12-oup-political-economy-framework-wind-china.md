@@ -2,11 +2,11 @@
 layout: paper
 title: Toward a Political Economy Framework for Wind Integration: Does China Break the Mould?
 subtitle: Davidson, M. R., Kahrl, F., and Karplus, V. J. (2016). The Political Economy of Clean Energy Transitions.
-tags: [papers, home]
+tags: [papers]
 
 ---
 
-[Download Book (Open Access)](https://www.wider.unu.edu/publication/political-economy-clean-energy-transitions-0)
+[Download Book](https://www.wider.unu.edu/publication/political-economy-clean-energy-transitions-0)
 
 **Introduction**
 
@@ -15,7 +15,7 @@ Wind power is considered one of the most cost-effective options for reducing car
 Drawing on global experience, this chapter develops an analytical framework for understanding the spectrum of political economy conflicts that arise when introducing and scaling wind power within an electricity system. We apply this framework to China, a country that has very different electricity sector institutions from those found in most other countries. We argue that China’s wind development and integration challenges can be understood through a general political economy framework, and show how high levels of wind energy curtailment in China are an expected result of clashes among actors and interests.
 
 
-[Download Book (Open Access)](https://www.wider.unu.edu/publication/political-economy-clean-energy-transitions-0)
+[Download Book](https://www.wider.unu.edu/publication/political-economy-clean-energy-transitions-0)
 
 [Working Paper version](/2016-04-01-political-economy-framework-wind-china/)
 
