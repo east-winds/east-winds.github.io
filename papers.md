@@ -20,6 +20,8 @@ title: Papers
 
 ## Other ##
 
+**Davidson, M. R.**, Kahrl, F., & Karplus, V. J. (2017). [Towards a political economy framework for wind power: Does China break the mould?](/2017-04-12-oup-political-economy-framework-wind-china/) In D. Arent, C. Arndt, M. Miller, F. Tarp, & O. Zinaman (Eds.), _The Political Economy of Clean Energy Transitions_ (pp. 250–270). Oxford University Press.
+
 **Davidson, M. R.**, Kahrl, F., and Karplus, V. J. (2016). [_Toward a Political Economy Framework for Wind Integration: Does China Break the Mould?_](/2016-04-01-political-economy-framework-wind-china/) (Working Paper No. 32). United Nations University World Institute for Development Economics Research.
 
 **Davidson, M. R.** (2014). [_Regulatory and Technical Barriers to Wind Energy Integration in Northeast China_](/2014-05-09-ms-thesis/) (M.S. Thesis). Massachusetts Institute of Technology.
