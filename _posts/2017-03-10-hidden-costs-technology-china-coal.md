@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Winner, Social Sciences Category, 2017 AAAS Student Poster Competition
-subtitle: Hidden Costs of Technology Development by the Plan - Case of China's Coal Fleet Upgrading
-tags: [home]
+subtitle: "Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading"
+tags: []
 
 ---
 
@@ -10,15 +10,15 @@ tags: [home]
 
 **Background**
 
-Through primarily state-driven research and development and technology acquisition efforts beginning in the late 1990s, China transformed its coal-fired power plant fleet, reducing the average amount of coal required per unit electricity by 19% over the period 2000-2014. It now surpasses the U.S. in terms of average efficiency, and the large-scale government science and technology programs responsible for these achievements have attracted significant attention and positive appraisal. Yet, the adopted standardized designs often achieve suboptimal efficiencies due to low and fluctuating use in operation. The divergences between design and operation reveal one of several drawbacks with state-directed innovation programs. These are explored in the context of the political economy of China’s power system, where centralized targets and technology development plans are made at arms-length of the highly localized system planning and operation functions. 
+Through primarily state-driven research and development and technology acquisition efforts beginning in the late 1990s, China transformed its coal-fired power plant fleet, reducing the average amount of coal required per unit electricity by 19% over the period 2000-2014. It now surpasses the U.S. in terms of average efficiency, and the large-scale government science and technology programs responsible for these achievements have attracted significant attention and positive appraisal. Yet, the adopted standardized designs often achieve suboptimal efficiencies due to low and fluctuating use in operation. The divergences between design and operation reveal one of several drawbacks with state-directed innovation programs. These are explored in the context of the political economy of China’s power system, where centralized targets and technology development plans are made at arms-length of the highly localized system planning and operation functions.
 
 **Methods**
 
-A review of the Chinese and English literature on the topic is combined with semi-structured interviews conducted in China in 2015-2016 with advanced coal technology program experts and electricity system operators. 
+A review of the Chinese and English literature on the topic is combined with semi-structured interviews conducted in China in 2015-2016 with advanced coal technology program experts and electricity system operators.
 
-**Results** 
+**Results**
 
-Key features of China’s electricity sector such as volatile demand growth, underdeveloped power markets and significant political intervention have caused the suboptimal use of advanced coal units. The complexities of operational conditions are largely ignored in the small set of metrics that characterize technology development plans, which may assume for political and other reasons a set of ideal benchmark conditions (e.g., high economic growth leading to steady utilization). Further, the centralized targets and technology development plans made at arms-length of localized system operation have led to difficulties in addressing these concerns in subsequent designs, leading to increased costs, emissions and political frictions. 
+Key features of China’s electricity sector such as volatile demand growth, underdeveloped power markets and significant political intervention have caused the suboptimal use of advanced coal units. The complexities of operational conditions are largely ignored in the small set of metrics that characterize technology development plans, which may assume for political and other reasons a set of ideal benchmark conditions (e.g., high economic growth leading to steady utilization). Further, the centralized targets and technology development plans made at arms-length of localized system operation have led to difficulties in addressing these concerns in subsequent designs, leading to increased costs, emissions and political frictions.
 
 **Conclusions**
 
