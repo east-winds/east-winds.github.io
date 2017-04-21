@@ -19,6 +19,9 @@ Ph.D. candidate in engineering systems at the MIT Institute for Data, Systems, a
 <br>
 
 <div class="posts-list">
+  {% if site.tags["home"] %}
+  <i><h3>New items:</h3></i>
+  {% endif %}
   {% for post in site.tags["home"] %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
