@@ -34,9 +34,9 @@
 			<h3 class="{{ include.type }}-subheading">{{ page.subtitle }}</h3>
 			{% endif %}
 		  {% endif %}
-		  
+
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
       </div>
@@ -59,7 +59,7 @@
 			<h3 class="{{ include.type }}-subheading">{{ page.subtitle }}</h3>
 			{% endif %}
 		  {% endif %}
-		  
+
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
