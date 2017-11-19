@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Institutions, Conflicts, and Political Economy in Renewable Energy Integration: Case of China, and Thoughts for India"
-subtitle: "Brookings India | Talk and Discussion"
+subtitle: "Brookings India | Talk and Discussion with Rahul Tongia"
 tags: [home]
 youtubeId: O_MC6VOHYFc
 
