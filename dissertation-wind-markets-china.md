@@ -7,7 +7,7 @@ title: Dissertation Project
 
 China's rapid economic growth – largely industrial, energy-intensive and reliant on coal – has generated a range of environmental, public health and governance challenges. Renewable energy development, spurred by sustained government intervention, has a large potential to address some of these impacts. However, while China now leads the world in deployment, it faces large performance gaps and inefficiencies in operation. Notably, curtailment (or waste) of wind and solar as a result of grid restrictions is high and increasing, creating uncertainty in China’s ability to meet longer-term environmental objectives including international climate commitments.
 
-![Curtailment in China, Texas](img/curt-2013-2016-windshare-ercot-rev.png) _Figure - Wind curtailment in major wind provinces of China (wind share of generation > 5% in 2016) and Electric Reliability Council of Texas_
+![Curtailment in China, Texas](img/curt-2013-2016-windshare-ercot-rev.png) _Figure - Wind curtailment in major wind provinces of China (wind share of generation > 5% in 2016) and Electric Reliability Council of Texas. Source: NEA, NBS, ERCOT_
 
 Concurrently, China is in its third decade of a protracted and incomplete transition toward competitive electricity markets. China joins most OECD and over 70 non-OECD countries that have reformed their historically vertically-integrated utilities to incorporate market competition. While a “standard liberalization prescription” exists, differences in institutional histories, resource endowments and broader economic context affect design and execution. Previous work has demonstrated that these diverse pathways make attributing outcomes to particular institutional reforms difficult.
 
