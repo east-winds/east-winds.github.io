@@ -89,8 +89,11 @@ img {
 
 img + em {
   color: gray;
+  font-size: 14px;
+  font-style: normal; 
   padding-top:0;
   margin-top:0;
+  display: block;
   text-align: center;
 }
 
