@@ -2,7 +2,7 @@
 layout: paper
 title: "Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector"
 subtitle: Davidson, M. R., Pérez-Arriaga, J. I. (2017). CEEPR Working Paper.
-tags: [home,papers]
+tags: [papers]
 
 ---
 
