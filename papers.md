@@ -6,15 +6,15 @@ published: true
 
 ## In Progress ##
 
-**Davidson, M. R.**, Pérez-Arriaga, J. I. "Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector." _IEEE Transactions on Power Systems_ (_revise and resubmit_).
 
-**Davidson, M. R.** Electricity systems integration challenges: A local perspective. In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation, and Innovation in Chinese Industry_. (_under revision_) (Poster presentation: [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/))
+**Davidson, M. R.** Electricity systems integration challenges: A local perspective. In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation, and Innovation in Chinese Industry_. (_under review_) (Poster presentation: [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/))
 
 **Davidson, M. R.** and Pérez-Arriaga, J. I. Avoiding Pitfalls in China's Electricity Reforms. (_in preparation_)
 
 
 ## Refereed/Peer-Reviewed ##
 
+**Davidson, M. R.**, Pérez-Arriaga, J. I. "Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector." _IEEE Transactions on Power Systems_ (_accepted_).
 
 **Davidson, M. R.**, Zhang, D., Xiong, W., Zhang, X., and Karplus, V. J. (2016). [Modelling the potential for wind energy integration on China's coal-heavy electricity grid](/2016-06-20-modelling-wind-energy-potential-China/). _Nature Energy_, 1, 16086.
 
