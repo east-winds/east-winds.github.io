@@ -8,7 +8,7 @@ published: true
 
 ## Refereed Journals ##
 
-**Davidson, M. R.**, Pérez-Arriaga, J. I. "Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector." _IEEE Transactions on Power Systems_ (_accepted 2018_).
+**Davidson, M. R.**, Pérez-Arriaga, J. I. (2018). [Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector](/2018-04-02-unit-commitment-china-political-context-ieee/). _IEEE Transactions on Power Systems_ (_pre-print_).
 
 **Davidson, M. R.**, Zhang, D., Xiong, W., Zhang, X., and Karplus, V. J. (2016). [Modelling the potential for wind energy integration on China's coal-heavy electricity grid](/2016-06-20-modelling-wind-energy-potential-China/). _Nature Energy_, 1, 16086.
 
