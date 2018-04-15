@@ -42,19 +42,19 @@ avatar: "/img/michael-davidson-sq.jpg"
 author:
   name: Michael R. Davidson
   email: "michd@mit.edu"
-#  facebook: yourname  
-  github: michd-mit    
-  twitter: east_winds   
-#  reddit: yourname    
-#  google-plus: +yourname   
-  linkedin: michaelroydavidson  
-#  xing: yourname      
-#  stackoverflow: yourlink  
-#  snapchat: yourname  
-#  instagram: yourname 
-#  youtube: yourlink   
-#  spotify: yourname   
-#  telephone: yourphone  
+#  facebook: yourname
+  github: michd-mit
+  twitter: east_winds
+#  reddit: yourname
+#  google-plus: +yourname
+  linkedin: michaelroydavidson
+#  xing: yourname
+#  stackoverflow: yourlink
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: yourlink
+#  spotify: yourname
+#  telephone: yourphone
 
 # Select which links to show in the footer
 footer-links-active:
@@ -83,14 +83,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"  
+#url-pretty: "MyWebsite.com"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: UA-117580732-1
 
 # Google Tag Manager ID
 #gtm: ""
