@@ -34,3 +34,5 @@ Although China's setting is institutionally very different, results support impl
 [Valerie J. Karplus](http://mitsloan.mit.edu/faculty-and-research/faculty-directory/detail/?id=29608), Assistant Professor of Global Economics and Management, MIT Sloan School of Management
 
 [Margaret Pearson](https://gvpt.umd.edu/facultyprofile/Pearson/Margaret), Professor of Government and Politics, University of Maryland
+
+### [Download Thesis](https://globalchange.mit.edu/publication/17047)
