@@ -8,7 +8,7 @@ published: true
 
 ## Refereed Journals ##
 
-**Davidson, M. R.**, Pérez-Arriaga, J. I. (2018). [Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector](/2018-04-02-unit-commitment-china-political-context-ieee/). _IEEE Transactions on Power Systems_ (_pre-print_).
+**Davidson, M. R.**, Pérez-Arriaga, J. I. (2018). [Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector](/2018-04-02-unit-commitment-china-political-context-ieee/). _IEEE Transactions on Power Systems_, _33_(5), 4889-4901.
 
 **Davidson, M. R.**, Zhang, D., Xiong, W., Zhang, X., and Karplus, V. J. (2016). [Modelling the potential for wind energy integration on China's coal-heavy electricity grid](/2016-06-20-modelling-wind-energy-potential-China/). _Nature Energy_, 1, 16086.
 
@@ -42,7 +42,7 @@ Zhang, D., **Davidson, M. R.**, Gunturu, B., Zhang, X., and Karplus, V. J. (2014
 
 ## Posters ##
 
-**Davidson, M. R.** (2017). [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/)). American Association for the Advancement of Science 2017 Annual Meeting.
+**Davidson, M. R.** (2017). [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/). American Association for the Advancement of Science 2017 Annual Meeting.
 
 **Davidson, M.** and Qi, T. (2015). "[Re-Analysis Data for Fine Temporal Resolution Wind Power Estimation: A Comparison of Boundary Layer Parameterizations](/2015-11-06-gcc-reanalysis-data-wind-applications/)." Graduate Climate Conference, Woods Hole Oceanographic Institution. Woods Hole, MA.
 
