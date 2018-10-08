@@ -34,6 +34,8 @@ Davidson, M. R., Pérez-Arriaga, J. I. (2017). [_Modeling Unit Commitment in Pol
 
 **Davidson, M. R.**, Kahrl, F., and Karplus, V. J. (2016). [_Toward a Political Economy Framework for Wind Integration: Does China Break the Mould?_](/2016-04-01-political-economy-framework-wind-china/) (Working Paper No. 32). United Nations University World Institute for Development Economics Research.
 
+**Davidson, M.** and Qi, T. (2015). "[Re-Analysis Data for Fine Temporal Resolution Wind Power Estimation: A Comparison of Boundary Layer Parameterizations](/2015-11-06-gcc-reanalysis-data-wind-applications/)." Graduate Climate Conference, Woods Hole Oceanographic Institution. Woods Hole, MA.
+
 **Davidson, M. R.** (2014). [_Regulatory and Technical Barriers to Wind Energy Integration in Northeast China_](/2014-05-09-ms-thesis/) (M.S. Thesis). Massachusetts Institute of Technology.
 
 Zhang, D., **Davidson, M. R.**, Gunturu, B., Zhang, X., and Karplus, V. J. (2014). [_An Integrated Assessment of China’s Wind Energy Potential_](/2014-04-01-integrated-assessment-china-wind-energy/) (Report No. 261). Cambridge, MA: MIT Joint Program on the Science and Policy of Global Change.
