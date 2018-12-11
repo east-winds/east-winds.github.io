@@ -15,14 +15,18 @@ published: true
 
 ## In Progress ##
 
+**Davidson, M. R.** and Pérez-Arriaga, J. I. Avoiding Pitfalls in China's Electricity Reforms, (_revise and resubmit_).
 
-**Davidson, M. R.** Electricity systems integration challenges: A local perspective. In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation, and Innovation in Chinese Industry_, (_in press_). (Poster presentation: [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/))
+**Davidson, M. R.** "From Barrier to Bridge: The Role of Coal in China’s Decarbonization". In edited volume on China's decarbonization pathways, D. Schrag and H. Lee (Eds.).
 
-**Davidson, M. R.** and Pérez-Arriaga, J. I. Avoiding Pitfalls in China's Electricity Reforms, (_under review_).
+**Davidson, M. R.**, Pearson, M. "Static Electricity: Institutional and Ideational Barriers to China’s Market Reforms."
 
-
+**Davidson, M. R.** "Electricity Markets in a Carbon-Constrained World: Reforming Scheduling Practices in China and India."
 
 ## Book Chapters ##
+
+**Davidson, M. R.** Technology Integration in China’s Electricity System: Central Targets and Local Challenges. In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation and Innovation in China’s Electricity and Telecom Industries_, (_in press_). (Poster presentation: [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/))
+
 
 
 **Davidson, M. R.**, Kahrl, F., & Karplus, V. J. (2017). [Towards a political economy framework for wind power: Does China break the mould?](/2017-04-12-oup-political-economy-framework-wind-china/) In D. Arent, C. Arndt, M. Miller, F. Tarp, & O. Zinaman (Eds.), _The Political Economy of Clean Energy Transitions_ (pp. 250–270). Oxford University Press.
