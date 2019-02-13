@@ -23,7 +23,7 @@ published: true
 
 **Davidson, M. R.** "Electricity Markets in a Carbon-Constrained World: Reforming Scheduling Practices in China and India."
 
-## Book Chapters ##
+## Refereed Book Chapters ##
 
 **Davidson, M. R.** Technology Integration in China’s Electricity System: Central Targets and Local Challenges. In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation and Innovation in China’s Electricity and Telecom Industries_, (_in press_). (Poster presentation: [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/))
 
