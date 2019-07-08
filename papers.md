@@ -25,7 +25,7 @@ published: true
 
 ## Refereed Book Chapters ##
 
-**Davidson, M. R.** Technology Integration in China’s Electricity System: Central Targets and Local Challenges. In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation and Innovation in China’s Electricity and Telecom Industries_, (_in press_). (Poster presentation: [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/))
+**Davidson, M. R.** [Technology Integration in China’s Electricity System: Central Targets and Local Challenges](https://www.cambridge.org/core/books/policy-regulation-and-innovation-in-chinas-electricity-and-telecom-industries/0BDE8075C1AAB175EB41A0E042A2C2F3). (2019). In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation and Innovation in China’s Electricity and Telecom Industries_. (Poster presentation: [Hidden Costs of Technology Development by the Plan: Case of China's Coal Fleet Upgrading](/2017-03-10-hidden-costs-technology-china-coal/))
 
 
 
