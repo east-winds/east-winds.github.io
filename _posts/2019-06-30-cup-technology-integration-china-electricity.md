@@ -12,7 +12,7 @@ China’s state-directed technology development and deployment programs have led
 
 Recommended citation:
 
-**Davidson, M. R.** Technology Integration in China’s Electricity System: Central Targets and Local Challenges. (2019). In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation and Innovation in China’s Electricity and Telecom Industries_.
+**Davidson, M. R.** Technology Integration in China’s Electricity System: Central Targets and Local Challenges. (2019). In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation and Innovation in China’s Electricity and Telecom Industries_. Cambridge University Press.
 
 Related work:
 
