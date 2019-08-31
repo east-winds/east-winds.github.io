@@ -41,7 +41,7 @@ avatar: "/img/michael-davidson-sq.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Michael R. Davidson
-  email: "mrdavidson&#64;ucsd.edu"
+  email: "mrdavidson AT ucsd.edu"
 #  facebook: yourname
   github: michd-mit
   twitter: east_winds

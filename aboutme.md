@@ -9,6 +9,4 @@ I am an assistant professor in the [School of Global Policy and Strategy](http:/
 
 Follow me: [@east_winds](http://twitter.com/east_winds)
 
-{% if site.author.email and site.footer-links-active.email %}
-	Email me: {{ site.author.email }}
-{% endif %}
+Email me: **{{ site.author.email }}**
