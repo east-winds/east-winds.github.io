@@ -13,7 +13,7 @@ baseurl: ""
 title: Michael R. Davidson
 
 # Short description of your site
-description: Harvard Kennedy School
+description: Assistant Professor at University of California, San Diego
 pagination: true
 paginate: 20
 
@@ -41,7 +41,7 @@ avatar: "/img/michael-davidson-sq.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Michael R. Davidson
-  email: "michd&#64;mit.edu"
+  email: "mrdavidson&#64;ucsd.edu"
 #  facebook: yourname
   github: michd-mit
   twitter: east_winds
@@ -60,10 +60,10 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: false
-  twitter: false
+  email: true
+  twitter: true
   google-plus: false
-  github: false
+  github: true
   reddit: false
   linkedin: false
   xing: false
