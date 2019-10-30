@@ -11,6 +11,7 @@ Restructuring an electricity sector entails a complex realignment of political a
 
 
 [**Final publication**](http://ieeexplore.ieee.org/document/8329554/)
+
 [**Preprint**](https://dspace.mit.edu/handle/1721.1/122347)
 
 
