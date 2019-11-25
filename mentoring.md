@@ -66,7 +66,7 @@ The Department of Political Science and GPS offer a joint [Ph.D. in Political Sc
 
 ### Other Opportunities
 
-### Postdoctoral Fellows
+#### Postdoctoral Fellows
 
 I am always interested in recruiting talented postdocs from different disciplines. Interested applicants should consult the [UCSD Office of Postdoctoral Affairs][postdoc] for appointment information, and the [Office of Foundation Relations][foundation], the [National Academies][NAS], and [this resource][harvard-funding] for funding opportunities.
 
