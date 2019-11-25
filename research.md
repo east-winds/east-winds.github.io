@@ -12,10 +12,10 @@ My research broadly centers on three themes--and often at their intersection--of
 [![Modelling the potential for wind energy integration on China's coal-heavy electricity grid <](/img/wind-resource-map.png)][r1]
 Reaching high penetrations (>50%) of intermittent renewable energy will require careful assessment of resource quality, land use requirements, supporting infrastructure, and power system reliability. Meso-scale reanalysis models provide granular continental-scale datasets, which when combined with GIS layers can generate and rank infrastructure siting decisions. Work in this area focuses on validating errors in these datasets for power applications, and developing novel algorithmic combinations with expansion planning optimizations.
 
-### Power System Operation Under Uncertainty and Heterogeneous Dispatch Institutions
+### Power System Operation Under Uncertainty and Heterogeneous Dispatch Paradigms
 
 [![Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector >](/img/power-system-dispatch.png)][r2]
-Grid integration outcomes of renewable energy in practice depend on the interactions of uncertainty (e.g., forecast error) and the sequential nature of dispatching and scheduling decisions. Optimal configurations assuming perfect foresight and ideal dispatch are insufficient in decarbonizing power systems. Work in this area studies the increasing use and complexity of energy markets across varied political contexts, developing new dispatch optimization models that capture large institutional scenario spaces and constraints.
+Grid integration outcomes of renewable energy in practice depend on the interactions of uncertainty (e.g., forecast error) and the sequential nature of dispatching and scheduling decisions. Optimal configurations assuming perfect foresight are often insufficient in decarbonization research. Work in this area looks at the increasing use and complexity of energy markets and forecasting tools, developing new dispatch optimizations and solution techniques to capture large scenario and constraint spaces.
 
 ### Political Economy of Low-Carbon Infrastructure Innovation and Markets
 
