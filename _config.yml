@@ -24,6 +24,7 @@ navbar-links:
   About: "aboutme"
   Papers: "papers"
   Research: "research"
+  Mentoring: "mentoring"
   Resources:
     - Dissertation: "dissertation-wind-markets-china"
 
