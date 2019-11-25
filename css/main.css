@@ -49,6 +49,21 @@ hr.small {
   border-radius: 3px;
 }
 
+/* remove space between line and lists */
+p { margin-bottom: 0; }
+p + p { margin-top: 15px;}
+
+/* remove space between sub-lists */
+ul { margin-bottom: 0; }
+ul + p { margin-top: 15px;}
+
+/* remove space between sub-lists */
+ol { margin-bottom: 0; }
+ol + p { margin-top: 15px;}
+
+/* remove space when finishing sub-list */
+li > ul + p {margin: 0px;}
+
 .main-content {
   padding-top: 80px;
 }
