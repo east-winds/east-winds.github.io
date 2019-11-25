@@ -9,7 +9,7 @@ My research broadly centers on three themes--and often at their intersection--of
 
 ### Renewable Resource Assessment and Planning for High-Penetration Futures
 
-[![Modelling the potential for wind energy integration on China's coal-heavy electricity grid](/img/wind-resource-map.png)][r1]
+[![Modelling the potential for wind energy integration on China's coal-heavy electricity grid alt <](/img/wind-resource-map.png)][r1]
 Reaching very high penetrations (>50%) of intermittent renewable energy will require careful assessment of resource quality, land use requirements, supporting infrastructure, and power system reliability. Meso-scale reanalysis models provide highly granular, continental-scale datasets, which when combined with GIS layers can generate and rank siting decisions. Work in this area focuses on validating the appropriateness and errors in these datasets for use in power applications, and developing novel algorithms for combining with expansion planning optimizations.
 
 
