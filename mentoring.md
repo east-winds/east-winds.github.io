@@ -31,7 +31,7 @@ The [MAE PhD][mae-phd] curriculum consists of a set of courses in a "major" spec
 	- MAE 254. Energy Materials and Applications
 	- MAE 256. Radiative Transfer for Energy Applications
 
-Students who already have funding or are actively seeking external funding are encouraged to contact me. For resources on potential funding opportunities, please visit [UCSD Graduate Division][grad-funding], [NSF GRFP][nsf-grfp], [International Students Office][ispo-funding], and this [resource for international students][caltech-funding].
+Students who already have funding or are actively seeking external funding are encouraged to contact me. For resources on potential funding opportunities, please visit [UCSD Graduate Division][grad-funding], [NSF GRFP][nsf-grfp], [International Students Office][ispo-funding], and this [resource for international students][caltech-funding]. All prospective students should consult the [admissions page][mae-phd-admissions] for deadline and application information.
 
 <br>
 #### M.S.
@@ -83,6 +83,7 @@ I am a faculty mentor with the [Science Policy Fellows Program][science-policy],
 [gps]: https://www.ucsd.edu/catalog/courses/GPS.html
 
 [mae-phd]: http://maeweb.ucsd.edu/grad/phd
+[mae-phd-admissions]: http://maeweb.ucsd.edu/grad/admissions
 [mae-ms]: http://maeweb.ucsd.edu/grad/ms
 [mae-bs]: http://maeweb.ucsd.edu/undergrad/programs
 [gps-phd]: https://polisci.ucsd.edu/grad/prospective-students/interdisciplinary-phd-program/index.html
