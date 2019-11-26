@@ -33,12 +33,10 @@ The [MAE PhD][mae-phd] curriculum consists of a set of courses in a "major" spec
 
 Students who already have funding or are actively seeking external funding are encouraged to contact me. For resources on potential funding opportunities, please visit [UCSD Graduate Division][grad-funding], [NSF GRFP][nsf-grfp], [International Students Office][ispo-funding], and this [resource for international students][caltech-funding]. All prospective students should consult the [admissions page][mae-phd-admissions] for deadline and application information.
 
-<br>
 #### M.S.
 
 Research opportunities may exist for course credit for [MAE M.S.][mae-ms] students.
 
-<br>
 #### B.S.
 
 Undergraduates in [MAE][mae-bs] or across the school of engineering may inquire about participating in a research project. A minimum time commitment and high degree of motivation are required. Research can be for course credit, stipend, or hourly pay depending on the student’s preference and funding availability.
@@ -58,7 +56,6 @@ Interested students are highly encouraged to take relevant energy policy courses
 
 For life tips on a career in energy policy, [Dan Kammen's website][kammen] is a good start.
 
-<br>
 #### Ph.D.
 
 The Department of Political Science and GPS offer a joint [Ph.D. in Political Science and International Affairs][gps-phd]. This prepares students for careers in political science, including a core curriculum shared with the political science Ph.D. degree.
@@ -72,7 +69,6 @@ I am always interested in recruiting talented postdocs from different discipline
 
 **I do not currently have any funded postdoctoral opportunities.** If you would like to be considered for future funded opportunities, you may contact me with your interests and expected graduation date.
 
-<br>
 #### Science Policy Fellows Program
 
 I am a faculty mentor with the [Science Policy Fellows Program][science-policy], operated out of GPS. Ph.D. candidates in engineering, medicine, or at Scripps, may apply to be paired with a mentor to work on a policy project related to the student's doctoral research. This generally involves meeting a few times per quarter and comes with a small stipend, e.g., to attend a conference outside of the student's primary academic discipline.
