@@ -11,7 +11,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 30px 0;
+  margin: 20px 0;
 }
 p a {
   /* text-decoration: underline */
@@ -51,13 +51,15 @@ hr.small {
   border-radius: 3px;
 }
 
-/* remove space between line and lists */
+/* remove space between line and lists, preserving space b/t para-para and para-heading */
 p { margin-bottom: 0; }
 p + p { margin-top: 15px;}
+p + h1, p + h2, p + h3, p + h4, p + h5, p + h6 { margin-top: 20px;}
 
 /* remove space between sub-lists */
 ul { margin-bottom: 0; }
 ul + p { margin-top: 15px;}
+ul + h1, ul + h2, ul + h3, ul + h4, ul + h5, ul + h6 { margin-top: 20px;}
 
 /* remove space between sub-lists */
 ol { margin-bottom: 0; }
@@ -65,6 +67,10 @@ ol + p { margin-top: 15px;}
 
 /* remove space when finishing sub-list */
 li > ul + p {margin: 0px;}
+
+/* shorten spaces after headings */
+h1 + p, h2 + p, h3 + p, h1 + ul, h2 + ul, h3 + ul { margin-top: 20px;}
+h4 + p, h5 + p, h6 + p, h4 + ul, h5 + ul, h6 + ul { margin-top: 15px;}
 
 .main-content {
   padding-top: 80px;
@@ -376,7 +382,6 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 20px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -388,7 +393,6 @@ footer .theme-by {
 .post-heading .post-meta,
 .paper-heading .post-meta {
   color: #808080;
-  font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
 }
