@@ -12,6 +12,11 @@ I welcome inquiries by prospective MAE PhD applicants, UCSD students, and postdo
 - **{{ site.author.email }}**
 - [@east_winds](http://twitter.com/east_winds)
 
+I split my time between both sides of campus. If you need to connect with me in person, please send me an email to arrange a time. My office locations:
+- MAE: [EBUII][ebuii]-465 (4th floor)
+- GPS: [RBC][rbc]-1414 (4th floor)
 
 [belfer]: https://www.belfercenter.org/
 [enrp]: https://www.belfercenter.org/program/environment-and-natural-resources
+[rbc]: https://maps.ucsd.edu/map/?id=1005#!m/237146
+[ebuii]: https://maps.ucsd.edu/map/?id=1005#!m/246302
