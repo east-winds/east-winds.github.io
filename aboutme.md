@@ -10,7 +10,7 @@ Previously, I was a post-doctoral research fellow in the [Harvard Kennedy School
 
 I am a faculty member with the [21st Century China Center][21ccc] and the [Center for Commerce and Diplomacy][ccd], both located at UC San Diego. I am also an associate in the [Environment and Natural Resources Program][enrp] at the Harvard Kennedy School Belfer Center, and a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/), hosted at Johns Hopkins SAIS.
 
-I welcome inquiries by prospective MAE PhD applicants, UC San Diego students, and postdoctoral fellows interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/). Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me:
+I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/). Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me:
 - **{{ site.author.email }}**
 - [@east_winds](http://twitter.com/east_winds)
 

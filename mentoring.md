@@ -6,7 +6,7 @@ title: Mentoring
 
 ### Openings
 
-I welcome inquiries by prospective MAE PhD applicants, UCSD students, and postdoctoral fellows interested in conducting research. Note that mentoring students outside of MAE or GPS may require additional logistics. Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me:
+I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Note that mentoring students outside of MAE or GPS may require additional logistics. Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me:
 - **{{ site.author.email }}**
 - [@east_winds](http://twitter.com/east_winds)
 
