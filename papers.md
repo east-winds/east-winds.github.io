@@ -6,10 +6,9 @@ published: true
 
 
 
-## Refereed Journals ##
+## Refereed Journal Articles ##
 
-
-**Davidson, M. R.** and Pérez-Arriaga, J. I. Pitfalls in China's Electricity Reforms. _The Energy Journal_, (_accepted_).
+**Davidson, M. R.**, & Pérez-Arriaga, I. (2020). [Avoiding Pitfalls in Reforming China’s Electricity Sector](/2019-12-16-avoiding-pitfalls-china-electricity-reforms/). _The Energy Journal_, 41(3).
 
 **Davidson, M. R.**, Pérez-Arriaga, J. I. (2018). [Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector](/2018-04-02-unit-commitment-china-political-context-ieee/). _IEEE Transactions on Power Systems_, _33_(5), 4889-4901.
 
@@ -18,13 +17,14 @@ published: true
 
 ## In Progress ##
 
-**Davidson, M. R.** "From Barrier to Bridge: The Role of Coal in China’s Decarbonization". In edited volume on China's decarbonization pathways, D. Schrag and H. Lee (Eds.).
-
 **Davidson, M. R.**, Pearson, M. "Static Electricity: Institutional and Ideational Barriers to China’s Market Reforms."
 
 **Davidson, M. R.** "Electricity Markets in a Carbon-Constrained World: Reforming Scheduling Practices in China and India."
 
 ## Refereed Book Chapters ##
+
+**Davidson, M. R.** "From Barrier to Bridge: The Role of Coal in China’s Decarbonization". In edited volume on China's decarbonization pathways, D. Schrag and H. Lee (Eds.). _Cambridge University Press_, _forthcoming_.
+
 
 **Davidson, M. R.** [Technology Integration in China’s Electricity System: Central Targets and Local Challenges](/2019-06-30-cup-technology-integration-china-electricity/). (2019). In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation and Innovation in China’s Electricity and Telecom Industries_.
 
