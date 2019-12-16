@@ -396,9 +396,9 @@ footer .theme-by {
   font-style: italic;
   margin: 0 0 10px;
 }
-.post-preview .post-entry {
+/* .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
+} */
 .post-entry-container,
 .paper-entry-container {
   display: inline-block;
@@ -536,7 +536,7 @@ footer .theme-by {
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading,
 .intro-header .paper-heading .paper-subheading  {
-  font-size: 27px;
+  /* font-size: 27px; */
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
