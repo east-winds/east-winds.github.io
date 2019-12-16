@@ -8,9 +8,9 @@ I am an assistant professor in the [School of Global Policy and Strategy](http:/
 
 Previously, I was a post-doctoral research fellow in the [Harvard Kennedy School's Belfer Center for Science and International Affairs][belfer], and received my Ph.D. in engineering systems and an S.M. in technology and policy from the [MIT Institute for Data, Systems, and Society](https://idss.mit.edu/), where I was also a researcher with the [MIT Joint Program on the Science and Policy of Global Change](http://globalchange.mit.edu) and a member of the [Tsinghua-MIT China Energy and Climate Project](https://globalchange.mit.edu/cecp/).
 
-I am a faculty member with the [21st Century China Center][21ccc] and the [Center for Commerce and Diplomacy][ccd], both located at UCSD. I am also an associate in the [Environment and Natural Resources Program][enrp] at the HKS Belfer Center, and a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/), hosted at Johns Hopkins SAIS.
+I am a faculty member with the [21st Century China Center][21ccc] and the [Center for Commerce and Diplomacy][ccd], both located at UC San Diego. I am also an associate in the [Environment and Natural Resources Program][enrp] at the Harvard Kennedy School Belfer Center, and a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/), hosted at Johns Hopkins SAIS.
 
-I welcome inquiries by prospective MAE PhD applicants, UCSD students, and postdoctoral fellows interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/). Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me:
+I welcome inquiries by prospective MAE PhD applicants, UC San Diego students, and postdoctoral fellows interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/). Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me:
 - **{{ site.author.email }}**
 - [@east_winds](http://twitter.com/east_winds)
 

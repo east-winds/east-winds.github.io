@@ -9,7 +9,13 @@ published: true
 
 I am an assistant professor in the [School of Global Policy and Strategy](http://gps.ucsd.edu/) and the [Mechanical and Aerospace Engineering Department](http://maeweb.ucsd.edu/) at the University of California, San Diego. My research and teaching center on the **engineering implications** and **institutional conflicts** inherent in deploying **low-carbon energy at scale**. I have a particular interest in understanding the **political systems of Asia** (with a focus on China and India), as well as the **western U.S.**
 
-I am an associate in the Environment and Natural Resources Program at the Harvard Kennedy School's Belfer Center, and I have held positions at the MIT Joint Program on the Science and Policy of Global Change. I am currently a fellow with the Initiative for Sustainable Energy Policy at Johns Hopkins SAIS.
+My [research topics](/research/) include renewable resource assessments, power system operations, and political economy of markets:
+
+[![Research topics <>](/img/index_images.png)](/research/)
+
+I welcome inquiries by prospective MAE PhD applicants, UCSD students, and postdoctoral fellows interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/).
+
+I am a faculty member with the [21st Century China Center][21ccc] and the [Center for Commerce and Diplomacy][ccd], both located at UC San Diego. I am also an associate in the [Environment and Natural Resources Program][enrp] at the Harvard Kennedy School Belfer Center, and a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/), hosted at Johns Hopkins SAIS. Read more [here](/aboutme/).
 
 <br>
 <br>
@@ -88,3 +94,9 @@ I am an associate in the Environment and Natural Resources Program at the Harvar
 </ul>
 {% endif %}
 {% endcomment %}
+
+
+[21ccc]: http://china.ucsd.edu/
+[ccd]: http://ccd.ucsd.edu/
+[belfer]: https://www.belfercenter.org/
+[enrp]: https://www.belfercenter.org/program/environment-and-natural-resources
