@@ -14,7 +14,6 @@ My [research topics](/research/) include renewable resource assessments, power s
 [![Research topics](/img/index_images.png)](/research/)
 
 <br>
-<br>
 
 I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/).
 
