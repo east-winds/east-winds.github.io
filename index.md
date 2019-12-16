@@ -11,7 +11,7 @@ I am an assistant professor in the [School of Global Policy and Strategy](http:/
 
 My [research topics](/research/) include renewable resource assessments, power system operations, and political economy of markets:
 
-[![Research topics <>](/img/index_images.png)](/research/)
+[![Research topics](/img/index_images.png)](/research/)
 
 <br>
 <br>
