@@ -26,6 +26,6 @@ _With the support of the Harvard Global Institute. In collaboration with Tsinghu
 
 Recommended citation:
 
-**Davidson, M.** (2019). “Creating Subnational Climate Institutions in China.” Discussion Paper, _Harvard Project on Climate Agreements_.
+**Davidson, M.** (2019). Creating Subnational Climate Institutions in China (Discussion Paper). Cambridge, MA: Harvard Project on Climate Agreements.
 
 
