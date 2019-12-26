@@ -5,7 +5,7 @@ title: Research Areas
 
 The electric power system is the most complex, interconnected machine humans have ever created. It is an enormous feat to re-engineer this system in order to replace fossil fuels with low-carbon sources which have very different operational and stochastic properties. Electric power in every country is also imbued with complex governance and industrial structures, which are in general ill-suited to the new demands of low-carbon energy. Moving the needle on the environment requires tackling both sets of challenges.
 
-My research broadly centers on three themes--and often at their intersection--of the institutional and engineering requirements for deploying low-carbon energy at scale. Current regions of focus include China, India, and the western U.S.
+My research broadly centers on three themes--and often at their intersection--of the institutional and engineering requirements for deploying low-carbon energy at scale. **Current regions of focus include China, India, and the western U.S.**
 
 ### Renewable Resource Assessment and Planning for High-Penetration Futures
 
