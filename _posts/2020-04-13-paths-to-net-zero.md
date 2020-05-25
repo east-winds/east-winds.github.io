@@ -15,5 +15,5 @@ For 30 years, diplomats and policymakers have called for decisive action on clim
 
 Recommended citation:
 
-Azevedo, I., **Davidson, M. R.**, Jenkins, J. D., Karplus, V. J., & Victor, D. G. (2020). The Paths to Net Zero. _Foreign Affairs_, May/June.
+Azevedo, I., **Davidson, M. R.**, Jenkins, J. D., Karplus, V. J., & Victor, D. G. (2020). The Paths to Net Zero: How Technology Can Save the Planet. _Foreign Affairs_, May/June.
 

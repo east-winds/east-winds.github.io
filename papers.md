@@ -15,13 +15,10 @@ published: true
 **Davidson, M. R.**, Zhang, D., Xiong, W., Zhang, X., and Karplus, V. J. (2016). [Modelling the potential for wind energy integration on China's coal-heavy electricity grid](/2016-06-20-modelling-wind-energy-potential-China/). _Nature Energy_, 1, 16086.
 
 
-## In Progress ##
+## Refereed Book Chapters and Other Publications ##
 
-**Davidson, M. R.**, Pearson, M. "Static Electricity: Institutional and Ideational Barriers to China’s Market Reforms."
+Azevedo, I., **Davidson, M. R.**, Jenkins, J. D., Karplus, V. J., & Victor, D. G. (2020). [The Paths to Net Zero: How Technology Can Save the Planet](/2020-04-13-paths-to-net-zero/). _Foreign Affairs_, May/June.
 
-**Davidson, M. R.** "Electricity Markets in a Carbon-Constrained World: Reforming Scheduling Practices in China and India."
-
-## Refereed Book Chapters ##
 
 **Davidson, M. R.** "From Barrier to Bridge: The Role of Coal in China’s Decarbonization". In edited volume on China's decarbonization pathways, D. Schrag and H. Lee (Eds.). _Cambridge University Press_, _forthcoming_.
 
@@ -31,6 +28,12 @@ published: true
 
 
 **Davidson, M. R.**, Kahrl, F., & Karplus, V. J. (2017). [Towards a political economy framework for wind power: Does China break the mould?](/2017-04-12-oup-political-economy-framework-wind-china/) In D. Arent, C. Arndt, M. Miller, F. Tarp, & O. Zinaman (Eds.), _The Political Economy of Clean Energy Transitions_ (pp. 250–270). Oxford University Press.
+
+## In Progress ##
+
+**Davidson, M. R.**, Pearson, M. "Static Electricity: Institutional and Ideational Barriers to China’s Market Reforms."
+
+**Davidson, M. R.** "Electricity Markets in a Carbon-Constrained World: Reforming Scheduling Practices in China and India."
 
 
 ## Working Papers and Reports ##
