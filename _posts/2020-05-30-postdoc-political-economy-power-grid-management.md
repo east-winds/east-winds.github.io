@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Job Opening: Postdoc in Political Economy of Power Grid Management"
+subtitle: "Examine the political economy of power grid management under decarbonization"
 tags: [home, post]
 ---
 
