@@ -26,5 +26,5 @@ Applications will be reviewed on a rolling basis, but it is highly recommended t
 
 The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, age or protected veteran status.
 
-
+[Pdf of this announcement](https://drive.google.com/file/d/1IyWytUCuvtlAn4hOYWmIkh_4GDH47aET/view?usp=sharing)
 
