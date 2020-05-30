@@ -15,7 +15,7 @@ My [research topics](/research/) include renewable resource assessments, power s
 
 <br>
 
-I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/).
+I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/). **I currently have an opening for a [Postdoctoral Scholar in Political Economy of Power Grid Management](/2020-05-30-postdoc-political-economy-power-grid-management/).**
 
 I am a faculty member with the [21st Century China Center][21ccc] and the [Center for Commerce and Diplomacy][ccd], both located at UC San Diego. I am also an associate in the [Environment and Natural Resources Program][enrp] at the Harvard Kennedy School Belfer Center, and a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/), hosted at Johns Hopkins SAIS. Read more [here](/aboutme/).
 

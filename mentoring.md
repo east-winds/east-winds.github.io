@@ -6,6 +6,8 @@ title: Mentoring
 
 ### Openings
 
+**I currently have an opening for a [Postdoctoral Scholar in Political Economy of Power Grid Management](/2020-05-30-postdoc-political-economy-power-grid-management/).**
+
 I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Note that mentoring students outside of MAE or GPS may require additional logistics. Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me:
 - **{{ site.author.email }}**
 - [@east_winds](http://twitter.com/east_winds)
@@ -65,9 +67,11 @@ The Department of Political Science and GPS offer a joint [Ph.D. in Political Sc
 
 #### Postdoctoral Fellows
 
+**I am currently recruiting for a [Postdoctoral Scholar in Political Economy of Power Grid Management](/2020-05-30-postdoc-political-economy-power-grid-management/).**
+
 I am always interested in recruiting talented postdocs from different disciplines. Interested applicants should consult the [UCSD Office of Postdoctoral Affairs][postdoc] for appointment information, and the [Office of Foundation Relations][foundation], the [National Academies][NAS], and [this resource][harvard-funding] for funding opportunities.
 
-**I do not currently have any funded postdoctoral opportunities.** If you would like to be considered for future funded opportunities, you may contact me with your interests and expected graduation date.
+If you would like to be considered for future funded opportunities, you may contact me with your interests and expected graduation date.
 
 #### Science Policy Fellows Program
 
