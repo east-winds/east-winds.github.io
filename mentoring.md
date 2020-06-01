@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mentoring
+image: /img/ucsd_campus_small.png
 ---
 
 
