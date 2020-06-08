@@ -13,7 +13,7 @@ Salary: Commensurate with experience
 
 Appointment: 12 months (extendable based on mutual agreement and available funding)
 
-Start Date: August 2020 – October 2020
+Start Date: Flexible, August 2020 – October 2020
 
 The [UC San Diego School of Global Policy and Strategy](http://gps.ucsd.edu/) (GPS) is hiring a postdoctoral researcher to examine the political economy of power grid management under decarbonization. The postdoc should be well-versed in least-cost energy systems optimization models in one or more modeling languages (e.g., AMPL, GAMS, Julia/JuMP, Python/Pyomo), and be eager to apply insights from the study of power grid institutions to improving model representations of real-world phenomena. The postdoc will work with the PI, Michael Davidson, Assistant Professor in GPS and the Department of Mechanical and Aerospace Engineering, who has ongoing projects examining the political economy of dispatch reform in China and India, and the benefits and political barriers to regional grid integration of the western US. Additional regions of focus may be added based on mutual interest.
 
