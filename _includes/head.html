@@ -113,7 +113,9 @@
 
   {% if page.share-img %}
   <meta name="twitter:image" content="{{ page.share-img }}" />
-  {% elsif site.avatar %}
+	{% elsif page.image %}
+  <meta name="twitter:image" content="{{ page.image }}" />
+	{% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
 
