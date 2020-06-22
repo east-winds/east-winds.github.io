@@ -112,9 +112,10 @@
   {% endif %}
 
   {% if page.share-img %}
-  <meta name="twitter:image" content="{{ page.share-img }}" />
+	<!-- TODO: check for absolute / relative image url -->
+  <meta name="twitter:image" content="{{ site.url }}{{ page.share-img }}" />
 	{% elsif page.image %}
-  <meta name="twitter:image" content="{{ page.image }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
 	{% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
