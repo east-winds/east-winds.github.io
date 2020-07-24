@@ -8,6 +8,8 @@ published: true
 
 ## Refereed Journal Articles ##
 
+Guo, H., **Davidson, M. R.**, Chen, Q., Zhang, D., Jiang, N., Xia, Q., Kang, C., and Zhang, X. (2020). [Power market reform in China: Motivations, progress, and recommendations.](/2020-07-23-china-power-market-reform-energy-policy/) _Energy Policy_, 145, 111717.
+
 **Davidson, M. R.**, & Pérez-Arriaga, I. (2020). [Avoiding Pitfalls in Reforming China’s Electricity Sector](/2019-12-16-avoiding-pitfalls-china-electricity-reforms/). _The Energy Journal_, 41(3).
 
 **Davidson, M. R.**, Pérez-Arriaga, J. I. (2018). [Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector](/2018-04-02-unit-commitment-china-political-context-ieee/). _IEEE Transactions on Power Systems_, _33_(5), 4889-4901.
