@@ -12,7 +12,7 @@ Guo, H., **Davidson, M. R.**, Chen, Q., Zhang, D., Jiang, N., Xia, Q., Kang, C.,
 
 **Davidson, M. R.**, & Pérez-Arriaga, I. (2020). [Avoiding Pitfalls in Reforming China’s Electricity Sector](/2019-12-16-avoiding-pitfalls-china-electricity-reforms/). _The Energy Journal_, 41(3).
 
-**Davidson, M. R.**, Pérez-Arriaga, J. I. (2018). [Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector](/2018-04-02-unit-commitment-china-political-context-ieee/). _IEEE Transactions on Power Systems_, _33_(5), 4889-4901.
+**Davidson, M. R.**, & Pérez-Arriaga, J. I. (2018). [Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector](/2018-04-02-unit-commitment-china-political-context-ieee/). _IEEE Transactions on Power Systems_, _33_(5), 4889-4901.
 
 **Davidson, M. R.**, Zhang, D., Xiong, W., Zhang, X., and Karplus, V. J. (2016). [Modelling the potential for wind energy integration on China's coal-heavy electricity grid](/2016-06-20-modelling-wind-energy-potential-China/). _Nature Energy_, 1, 16086.
 
