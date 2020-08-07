@@ -11,6 +11,8 @@ China's electricity demand has grown rapidly over only two decades and is curren
 
 [Published version](https://doi.org/10.1016/j.enpol.2020.111717)
 
+[Pre-publication Version](https://drive.google.com/file/d/1jya_iJmW-YqKZqqNg9552LNc-3EYGNY7/view?usp=sharing)
+
 Recommended citation:
 
 Guo, H., **Davidson, M. R.**, Chen, Q., Zhang, D., Jiang, N., Xia, Q., Kang, C., and Zhang, X. (2020). Power market reform in China: Motivations, progress, and recommendations. _Energy Policy_, 145, 111717.
