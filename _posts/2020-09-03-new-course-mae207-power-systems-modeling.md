@@ -18,9 +18,9 @@ Finally, several datasets of realistic power systems are provided which students
 
 **Course structure**
 
-The course will consist of lectures, labs and seminars where students will engage with foundational concepts, hands-on applications in an algebraic modeling language, and methods and limitations of the state-of-the-art.
+The course will consist of lectures, labs, and seminars where students will engage with foundational concepts, hands-on applications in an algebraic modeling language, and methods and limitations of the state-of-the-art.
 
 
 **Course materials**
 
-Course materials and sample code are being jointly developed with **Prof. [Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins)** (Princeton) and will be available publicly at the [course repo](https://github.com/east-winds/power-systems-optimization) throughout the term.
+Course materials and sample code will be available publicly at the [course repo](https://github.com/east-winds/power-systems-optimization) throughout the term. These are being jointly developed with **[Prof. Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins)** for use also in a course at a Princeton ([MAE / ENE 539](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=008273)).
