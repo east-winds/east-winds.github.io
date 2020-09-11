@@ -24,3 +24,40 @@ The course will consist of lectures, labs, and seminars where students will enga
 **Course materials**
 
 Course materials and sample code will be available publicly at the [course repo](https://github.com/east-winds/power-systems-optimization) throughout the term. These are being jointly developed with **[Prof. Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins)** for use also in a course at a Princeton ([MAE / ENE 539](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=008273)).
+
+**Course schedule**
+
+This course will be taught remote in FA20.
+
+<a onclick="post_link()" href="#">View on Schedule of Classes</a>
+
+<script>
+function post_link() {
+	const url = "https://act.ucsd.edu/scheduleOfClasses/scheduleOfClassesStudentResult.htm";
+	const data = {
+							selectedTerm: "FA20",
+							xsoc_term: "",
+							loggedIn: false,
+							tabNum: "tabs-ins",
+							sections: "",
+							instructorType: "begin",
+							instructor: "davidson",
+							titleType: "contain",
+							title: "electric"
+						}
+	var form = document.createElement("form");
+	form.method = "POST";
+	form.action = url;
+	for (var key in data) {
+			var input = document.createElement("input");
+			input.type = "hidden";
+			input.name = key;
+			input.value = data[key];
+			form.appendChild(input);
+	}
+	document.body.appendChild(form);
+	form.submit();
+	document.body.removeChild(form);
+}
+</script>
+
