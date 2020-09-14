@@ -13,9 +13,7 @@ image: /img/ucsd_campus_small.png
 - [Flexible Thermo-Electric Systems](/2020-06-08-postdoc-flexible-thermoelectric-systems/)
 
 
-I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Note that mentoring students outside of MAE or GPS may require additional logistics. Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me:
-- **{{ site.author.email }}**
-- [@east_winds](http://twitter.com/east_winds)
+I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me: **{{ site.author.email }}** .
 
 ### Mechanical and Aerospace Engineering
 
@@ -24,7 +22,7 @@ I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as w
 The [MAE PhD][mae-phd] curriculum consists of a set of courses in a "major" specialization (4) and a "minor" specialization (2), forming the basis of our qualifying exams. Much leeway is granted to the student, in discussion with their committee, in terms of how these courses are put together. Course descriptions can be found here: [MAE][mae], [ECE][ece], [MATH][math], and [GPS][gps]. Some courses that students in energy systems have taken include:
 - Energy systems:
   - MAE 206 / GPGN 491. Energy Systems and Innovation
-  - MAE 207 (_new course 2020-21, Davidson_). Power Systems Modeling
+  - [MAE 207 (_new course FA20_). Electric Power Systems Modeling](/2020-09-03-new-course-mae207-power-systems-modeling/)
 - Policy:
   - GPPS 428. Politics of Energy and Environmental Regulation
 - Optimization:
@@ -42,12 +40,13 @@ Students who already have funding or are actively seeking external funding are e
 
 #### M.S.
 
-Research opportunities may exist for course credit for [MAE M.S.][mae-ms] students.
+Advising on relevant thesis research and other research opportunities for course credit are available to [MAE M.S.][mae-ms] students.
 
 #### B.S.
 
 Undergraduates in [MAE][mae-bs] or across the school of engineering may inquire about participating in a research project. A minimum time commitment and high degree of motivation are required. Research can be for course credit, stipend, or hourly pay depending on the student’s preference and funding availability.
 
+**Desired programming language competencies: python, R, julia**
 
 ### School of Global Policy & Strategy
 
@@ -56,7 +55,7 @@ Undergraduates in [MAE][mae-bs] or across the school of engineering may inquire 
 GPS offers a variety of [masters degrees][gps-masters]. The [admissions office][gps-admissions] will be better prepared to answer questions on the differences among the programs. A limited number of research assistantships may become available for GPS masters students on an ad-hoc basis.
 
 Interested students are highly encouraged to take relevant energy policy courses, including:
-- GPPS 428 (Winter, Victor). Politics of Energy and Environmental Regulation
+- GPPS 428 (Winter, Davidson). Politics of Energy and Environmental Regulation
 - GPPA 472 (Fall, Martin). Latin American Environmental and Energy Policy
 - GPPS 473 (Fall, Herberg). Political Economy of Energy in Asia
 - GPPS 490 (Winter, Davidson). Energy and Environmental Policy in Asia
