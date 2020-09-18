@@ -21,6 +21,7 @@ These findings have implications for the design and implementation of the nation
 
 [Download Full Paper](https://www.belfercenter.org/publication/creating-subnational-climate-institutions-china)
 
+[Chinese version](https://www.belfercenter.org/sites/default/files/files/publication/davidson-paper-chinese-dsngd-200303-final_0.pdf)
 
 _With the support of the Harvard Global Institute. In collaboration with Tsinghua University’s Institute of Energy, Environment, and Economy_
 

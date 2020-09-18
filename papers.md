@@ -40,7 +40,11 @@ Azevedo, I., **Davidson, M. R.**, Jenkins, J. D., Karplus, V. J., & Victor, D. G
 
 ## Working Papers and Reports ##
 
-Davidson, M. R., Pérez-Arriaga, J. I. (2017). [_Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector_](/2017-04-21-unit-commitment-china-political-context/). MIT CEEPR Working Paper.
+Iychettira, K., Hou, X., **Davidson, M.**, & Urpelainen, J. (2020). [The impact of COVID-19 on the power sector in Karnataka, India (ISEP Policy Brief)](/2020-09-17-impact-covid-karnataka-electricity/). Initiative for Sustainable Energy Policy.
+
+**Davidson, M.** (2019). [Creating Subnational Climate Institutions in China (Discussion Paper)](/2019-12-18-subnational-china-climate-institutions/). Cambridge, MA: Harvard Project on Climate Agreements.
+
+**Davidson, M. R.**, Pérez-Arriaga, J. I. (2017). [_Modeling Unit Commitment in Political Context: Case of China's Partially Restructured Electricity Sector_](/2017-04-21-unit-commitment-china-political-context/). MIT CEEPR Working Paper.
 
 **Davidson, M. R.**, Kahrl, F., and Karplus, V. J. (2016). [_Toward a Political Economy Framework for Wind Integration: Does China Break the Mould?_](/2016-04-01-political-economy-framework-wind-china/) (Working Paper No. 32). United Nations University World Institute for Development Economics Research.
 
@@ -57,4 +61,4 @@ Zhang, D., **Davidson, M. R.**, Gunturu, B., Zhang, X., and Karplus, V. J. (2014
 **Davidson, M.** and Qi, T. (2015). "[Re-Analysis Data for Fine Temporal Resolution Wind Power Estimation: A Comparison of Boundary Layer Parameterizations](/2015-11-06-gcc-reanalysis-data-wind-applications/)." Graduate Climate Conference, Woods Hole Oceanographic Institution. Woods Hole, MA.
 
 
-### [**Download CV**](/papers/Michael_Davidson_CV.pdf) ###
+### [**Download CV**](https://drive.google.com/file/d/1K7R3tf54fY_FYJubj97W3yP5Oazb3Fci/view?usp=sharing) ###
