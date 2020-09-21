@@ -79,6 +79,8 @@ The Department of Political Science and GPS offer a joint [Ph.D. in Political Sc
 
 I am always interested in recruiting talented postdocs from different disciplines. Interested applicants should consult the [UCSD Office of Postdoctoral Affairs][postdoc] for appointment information, and the [Office of Foundation Relations][foundation], the [National Academies][NAS], and [this resource][harvard-funding] for funding opportunities.
 
+**The [University of California President's Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/) is a competitive program that offers fellowships, professional development and faculty mentoring to outstanding scholars in all fields whose research, teaching, and service will contribute to diversity and equal opportunity at UC. Applications are due November 1.**
+
 If you would like to be considered for future funded opportunities, you may contact me with your interests and expected graduation date.
 
 #### Science Policy Fellows Program
