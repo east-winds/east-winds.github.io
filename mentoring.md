@@ -12,8 +12,12 @@ image: /img/ucsd_campus_small.png
 - [Political Economy of Power Grid Management](/2020-05-30-postdoc-political-economy-power-grid-management/)
 - [Flexible Thermo-Electric Systems](/2020-06-08-postdoc-flexible-thermoelectric-systems/)
 
+**I am also recruiting PhD and MS students to join the lab.** Please include in your inquiry (**{{ site.author.email }}**):
 
-I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Please identify interests within ongoing [research areas](/research/) and include a CV or resume when contacting me: **{{ site.author.email }}** .
+- CV and transcript(s)
+- Research interests (the team's [research areas](/research/) are a good start to see what we do, but I am interested in what you want to do)
+- If you are a fellowship recipient with funding
+
 
 ### Mechanical and Aerospace Engineering
 

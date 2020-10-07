@@ -12,6 +12,8 @@ published: true
 - [Political Economy of Power Grid Management](/2020-05-30-postdoc-political-economy-power-grid-management/)
 - [Flexible Thermo-Electric Systems](/2020-06-08-postdoc-flexible-thermoelectric-systems/)
 
+**I am also recruiting PhD and MS students to join the lab:** Please see the [academic programs and mentoring opportunities](/mentoring/) page for more information.
+
 
 I am an assistant professor in the [School of Global Policy and Strategy](http://gps.ucsd.edu/) and the [Mechanical and Aerospace Engineering Department](http://maeweb.ucsd.edu/) at the University of California, San Diego. My research and teaching center on the **engineering implications** and **institutional conflicts** inherent in deploying **low-carbon energy at scale**. I have a particular interest in understanding the **political systems of Asia** (with a focus on China and India), as well as the **western U.S.**
 
