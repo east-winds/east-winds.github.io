@@ -7,25 +7,22 @@ published: true
 
 <br>
 
-**I currently have two openings for Postdoctoral Researchers:**
 
-- [Political Economy of Power Grid Management](/2020-05-30-postdoc-political-economy-power-grid-management/)
-- [Flexible Thermo-Electric Systems](/2020-06-08-postdoc-flexible-thermoelectric-systems/)
-
-**I am also recruiting PhD and MS students to join the lab:** Please see the [academic programs and mentoring opportunities](/mentoring/) page for more information.
-
-
-I am an assistant professor in the [School of Global Policy and Strategy](http://gps.ucsd.edu/) and the [Mechanical and Aerospace Engineering Department](http://maeweb.ucsd.edu/) at the University of California, San Diego. My research and teaching center on the **engineering implications** and **institutional conflicts** inherent in deploying **low-carbon energy at scale**. I have a particular interest in understanding the **political systems of Asia** (with a focus on China and India), as well as the **western U.S.**
-
-My [research topics](/research/) include renewable resource assessments, power system operations, and political economy of markets:
+The Davidson Lab focuses on the **engineering implications** and **institutional conflicts** inherent in deploying **low-carbon energy at scale**. We have particular interests in understanding the **political systems of Asia** (with a focus on China and India) as well as the **western U.S.** Our [research topics](/research/) include renewable resource assessments, power system operations, and political economy of markets:
 
 [![Research topics](/img/index_images.png)](/research/)
 
 <br>
 
-I welcome inquiries by prospective PhD applicants and postdoctoral fellows, as well as UC San Diego students interested in conducting research. Consult my list of  [academic programs and mentoring opportunities](/mentoring/).
+**We are recruiting PhD and MS students to join the lab:** Please see the [academic programs and mentoring opportunities](/mentoring/) page for more information.
 
-I am a faculty member with the [21st Century China Center][21ccc] and the [Center for Commerce and Diplomacy][ccd], both located at UC San Diego. I am also a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/) at Johns Hopkins SAIS. Read more [here](/aboutme/).
+
+
+<br>
+
+Prof. Davidson is an assistant professor in the [School of Global Policy and Strategy](http://gps.ucsd.edu/) and the [Mechanical and Aerospace Engineering Department](http://maeweb.ucsd.edu/) at the University of California, San Diego. He is a faculty member with the [21st Century China Center][21ccc] and the [Center for Commerce and Diplomacy][ccd], both located at UC San Diego. He is also a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/) at Johns Hopkins SAIS. Read more [here](/about/).
+
+
 
 <br>
 <br>

@@ -7,15 +7,10 @@ image: /img/ucsd_campus_small.png
 
 ### Openings
 
-**I currently have two openings for Postdoctoral Researchers:**
-
-- [Political Economy of Power Grid Management](/2020-05-30-postdoc-political-economy-power-grid-management/)
-- [Flexible Thermo-Electric Systems](/2020-06-08-postdoc-flexible-thermoelectric-systems/)
-
-**I am also recruiting PhD and MS students to join the lab.** Please include in your inquiry (**{{ site.author.email }}**):
+**We are recruiting PhD and MS students to join the lab.** Please include in your inquiry (**{{ site.author.email }}**):
 
 - CV and transcript(s)
-- Research interests (the team's [research areas](/research/) are a good start to see what we do, but I am interested in what you want to do)
+- Research interests (the team's [research areas](/research/) are a good start to see what we do, but we are interested in what you want to do)
 - If you are a fellowship recipient with funding
 
 
@@ -50,7 +45,7 @@ Advising on relevant thesis research and other research opportunities for course
 
 Undergraduates in [MAE][mae-bs] or across the school of engineering may inquire about participating in a research project. A minimum time commitment and high degree of motivation are required. Research can be for course credit, stipend, or hourly pay depending on the student’s preference and funding availability.
 
-**Desired programming language competencies: python, R, julia**
+**Desired programming language competencies: python, R, and/or julia**
 
 ### School of Global Policy & Strategy
 
@@ -75,21 +70,15 @@ The Department of Political Science and GPS offer a joint [Ph.D. in Political Sc
 
 #### Postdoctoral Fellows
 
-**I currently have two openings for Postdoctoral Researchers:**
-
-- [Political Economy of Power Grid Management](/2020-05-30-postdoc-political-economy-power-grid-management/)
-- [Flexible Thermo-Electric Systems](/2020-06-08-postdoc-flexible-thermoelectric-systems/)
-
-
-I am always interested in recruiting talented postdocs from different disciplines. Interested applicants should consult the [UCSD Office of Postdoctoral Affairs][postdoc] for appointment information, and the [Office of Foundation Relations][foundation], the [National Academies][NAS], and [this resource][harvard-funding] for funding opportunities.
+We are always interested in recruiting talented postdocs from different disciplines. Interested applicants should consult the [UCSD Office of Postdoctoral Affairs][postdoc] for appointment information, and the [Office of Foundation Relations][foundation], the [National Academies][NAS], and [this resource][harvard-funding] for funding opportunities.
 
 **The [University of California President's Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/) is a competitive program that offers fellowships, professional development and faculty mentoring to outstanding scholars in all fields whose research, teaching, and service will contribute to diversity and equal opportunity at UC. Applications are due November 1.**
 
-If you would like to be considered for future funded opportunities, you may contact me with your interests and expected graduation date.
+If you would like to be considered for future funded opportunities, you may contact Prof. Davidson with your interests and expected graduation date.
 
 #### Science Policy Fellows Program
 
-I am a faculty mentor with the [Science Policy Fellows Program][science-policy], operated out of GPS. Ph.D. candidates in engineering, medicine, or at Scripps, may apply to be paired with a mentor to work on a policy project related to the student's doctoral research. This generally involves meeting a few times per quarter and comes with a small stipend, e.g., to attend a conference outside of the student's primary academic discipline.
+Prof. Davidson is a faculty mentor with the [Science Policy Fellows Program][science-policy], operated out of GPS. Ph.D. candidates in engineering, medicine, or at Scripps, may apply to be paired with a mentor to work on a policy project related to the student's doctoral research. This generally involves meeting a few times per quarter and comes with a small stipend, e.g., to attend a conference outside of the student's primary academic discipline.
 
 [mae]: http://www.ucsd.edu/catalog/courses/MAE.html
 [ece]: http://www.ucsd.edu/catalog/courses/ECE.html

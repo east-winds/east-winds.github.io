@@ -2,10 +2,10 @@
 layout: post
 title: "Job Opening: Postdoc in Flexible Thermo-Electric Systems"
 subtitle: "Model the flexibility requirements of the power system under increasing penetrations of intermittent renewable energy"
-tags: [home, post]
+tags: [post]
 image: /img/wind_sm.jpg
 ---
-
+## (Archived)
 ## Postdoctoral Researcher, Flexible Thermo-Electric Systems
 Department: Mechanical and Aerospace Engineering
 

@@ -60,5 +60,9 @@ Zhang, D., **Davidson, M. R.**, Gunturu, B., Zhang, X., and Karplus, V. J. (2014
 
 **Davidson, M.** and Qi, T. (2015). "[Re-Analysis Data for Fine Temporal Resolution Wind Power Estimation: A Comparison of Boundary Layer Parameterizations](/2015-11-06-gcc-reanalysis-data-wind-applications/)." Graduate Climate Conference, Woods Hole Oceanographic Institution. Woods Hole, MA.
 
+## Dissertation ##
+
+**Davidson, M. R.** (2018). [Creating Markets for Wind Electricity in China: Case Studies in Energy Policy and Regulation](/dissertation-wind-markets-china/) (Ph.D. Thesis). Massachusetts Institute of Technology.
+
 
 ### [**Download CV**](https://drive.google.com/file/d/1K7R3tf54fY_FYJubj97W3yP5Oazb3Fci/view?usp=sharing) ###
