@@ -128,10 +128,12 @@ img + em {
 
 img[alt$=">"] {
   float: right;
+	padding-left: 5px;
 }
 
 img[alt$="<"] {
   float: left;
+	padding-right: 5px;
 }
 
 img[alt$="><"] {
