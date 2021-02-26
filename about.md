@@ -31,6 +31,12 @@ I was previously a postdoctoral fellow at the Idaho National Laboratory and the 
 
 I am a third-year Data Science student working with the renewable energy forecasts team. My interest in research comes from how data can tell stories. Individuals can use the same data set and based on their own interpretations, come to different conclusions and that is fascinating to me. I am a huge sports fan (literally any sport) and in my free time I love watching sports (basketball and football being my favorites). I am also a die hard Laker fan!
 
+### Jiahe (Jeffrey) Feng
+![Portrait Jeffrey Feng <](https://drive.google.com/uc?export=view&id=1TgRGwez2JY63LppK57UHIyVAbrEaa-rx)
+
+I am a Data Science & Cognitive Science major (class of 2022) with experience in the fields of data analysis, data engineering, and machine learning. I am working on the Geodata Team for the Davidson lab, where I am implementing functions to manipulate and visualize geospatial masks and shapefiles. I am enthusiastic about data and how we can efficiently solve problems with it, and am planning to attend graduate school in data science.
+
+
 ### Johnny Nguyen
 ![Portrait Johnny Nguyen <](https://drive.google.com/uc?export=view&id=1lEcagxXGSk45xqxK5Nmr96tMgyL3p6bL)
 
