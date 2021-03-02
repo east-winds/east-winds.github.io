@@ -36,12 +36,20 @@ I am a third-year Data Science student working with the renewable energy forecas
 
 I am a Data Science & Cognitive Science major (class of 2022) with experience in the fields of data analysis, data engineering, and machine learning. I am working on the Geodata Team for the Davidson lab, where I am implementing functions to manipulate and visualize geospatial masks and shapefiles. I am enthusiastic about data and how we can efficiently solve problems with it, and am planning to attend graduate school in data science.
 
+### Isac Lee
+![Portrait Isac Lee <](https://drive.google.com/uc?export=view&id=11LWIAfRBOqUUJpXvLxuCEunGfZJl55x1)
+
+Isac Lee is a 4th year data science major at UCSD and is currently working on Professor Davidson’s Energy Justice Project to research the social implications and inequity of California’s transition to a low-carbon economy through solar PV. He hopes to use his educational background in data science to delve deeper into his personal interests in renewable energy and space exploration after graduation. In his free time, Isac loves to be active through sports/hikes and enjoys watching sci-fi movies/shows.
 
 ### Johnny Nguyen
 ![Portrait Johnny Nguyen <](https://drive.google.com/uc?export=view&id=1lEcagxXGSk45xqxK5Nmr96tMgyL3p6bL)
 
 I am a Mechanical Engineering major with a specialization in Renewable Energy and Environmental Flows at UC San Diego. I am most interested in exploring the intersection of policy and engineering principles in my education and research and am currently working on the Western Clean Energy project. When I am not on campus, you can find me exploring coffee shops and eateries around the city.
 
+### Yuanbo (Rambo) Shi
+![Portrait Yuanbo Shi <](https://drive.google.com/uc?export=view&id=1XGYoCUCFDxF5o3r1JyLtJeQAqLhLC_MS)
+
+I am a data science major 2021er with a specialization in data analysis, data mining, machine learning and deep learning. I am currently in the Geodata group implementing methods for masks and related computations on geospatial data. I am interested in applying data analysis to solve various social problems. I love playing my guitar and singing when I’m free.
 
 ### Ananya Thridandam
 ![Portrait Ananya Thridandam <](https://drive.google.com/uc?export=view&id=1fnqifH7PopcoqhTrxqS8QKoZ02mSS5Cy)
