@@ -48,6 +48,11 @@ I am a Mechanical Engineering major with a specialization in Renewable Energy an
 
 Ananya is an undergraduate Mechanical Engineering major specializing in Renewable Energy and Environmental Flows.  She is interested in pursuing a masters degree in engineering, and hopes to continue renewable energy research along the way.  She is currently researching regionalization and inter-state renewable energy trade in the western United States with the Davidson Lab.  Additionally, she is an active member of the student organization, Engineers for a Sustainable World at UCSD.
 
+### Yunhan Zhang
+![Portrait Yunhan Zhang <](https://drive.google.com/uc?export=view&id=1PU2JUNWAmT3IKIyTt_L4h3LQ6Nzlc7jN)
+
+I am a third-year student majoring in Data Science & Joint Major of Mathematics and Economics. I am currently working on data extraction and analysis with the China Power Market team in Dr. Davidson's lab. We are streamlining the workflow of scraping data from multiple sources and types. My personal interest is exploring how could data can help market decisions.
+
 
 
 [21ccc]: http://china.ucsd.edu/
