@@ -51,6 +51,11 @@ I'm a Data Science major and a Math minor at UCSD. Some of my educational intere
 
 I am a Mechanical Engineering major with a specialization in Renewable Energy and Environmental Flows at UC San Diego. I am most interested in exploring the intersection of policy and engineering principles in my education and research and am currently working on the Western Clean Energy project. When I am not on campus, you can find me exploring coffee shops and eateries around the city.
 
+### Arjun Sawhney
+![Portrait Arjun Sawhney <](https://drive.google.com/uc?export=view&id=1o0HT6own_W8ZE2iWbl87fUZa5BOcRas0)
+
+I'm a third year undergraduate student in the Data Science program. I have long been passionate about sustainability & climate, data analysis, and art. Working with the geodata team in the Davidson lab has allowed me explore the confluence of these interests and expand my knowledge. I am currently conducting research on renewable resource assessment and planning in India through geospatial data analysis. My work attempts to answer pertinent questions regarding the extent to which prioritizing political suitability influences wind and solar potential in India
+
 ### Yuanbo (Rambo) Shi
 ![Portrait Yuanbo Shi <](https://drive.google.com/uc?export=view&id=1XGYoCUCFDxF5o3r1JyLtJeQAqLhLC_MS)
 
