@@ -61,6 +61,11 @@ I'm a third year undergraduate student in the Data Science program. I have long 
 
 I am a data science major 2021er with a specialization in data analysis, data mining, machine learning and deep learning. I am currently in the Geodata group implementing methods for masks and related computations on geospatial data. I am interested in applying data analysis to solve various social problems. I love playing my guitar and singing when I’m free.
 
+### Huizhong (Sonia) Tan
+![Portrait Sonia Tan <](https://drive.google.com/uc?export=view&id=1tBh2XIs1sofQ_soBoeXI4HPo9e6e_Kjk)
+
+I am a second-year Master of Chinese Economics and Political Affairs student, with a focus on Chinese economics and industrial policy. I am interested in pursuing a career as a research analyst, since I am passionate about researching the impact of regulation and the interaction between government and enterprises on industry as well as macroeconomics. Working with Professor Davison on the low-carbon transition of the Chinese energy state-owned enterprises is providing me with an excellent opportunity to expand my research interests in renewable energy policies.
+
 ### Ananya Thridandam
 ![Portrait Ananya Thridandam <](https://drive.google.com/uc?export=view&id=1fnqifH7PopcoqhTrxqS8QKoZ02mSS5Cy)
 
