@@ -40,6 +40,9 @@ Azevedo, I., **Davidson, M. R.**, Jenkins, J. D., Karplus, V. J., & Victor, D. G
 
 ## Working Papers and Reports ##
 
+Liu, S., & **Davidson, M. R.** (2021). [China Trading Power: Improving Environmental and Economic Efficiency of Yunnan’s Electricity Market](/2021-03-18-china-trading-power-yunnan-electricity-market/). Harvard Kennedy School Belfer Center for Science and International Affairs. Retrieved from https://www.belfercenter.org/publication/china-trading-power-improving-environmental-and-economic-efficiency-yunnans-electricity
+
+
 Iychettira, K., Hou, X., **Davidson, M.**, & Urpelainen, J. (2020). [The impact of COVID-19 on the power sector in Karnataka, India (ISEP Policy Brief)](/2020-09-17-impact-covid-karnataka-electricity/). Initiative for Sustainable Energy Policy.
 
 **Davidson, M.** (2019). [Creating Subnational Climate Institutions in China (Discussion Paper)](/2019-12-18-subnational-china-climate-institutions/). Cambridge, MA: Harvard Project on Climate Agreements.
