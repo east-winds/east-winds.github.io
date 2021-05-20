@@ -20,7 +20,7 @@ The Davidson Lab focuses on the **engineering implications** and **institutional
 
 <br>
 
-Prof. Davidson is an assistant professor in the [School of Global Policy and Strategy](http://gps.ucsd.edu/) and the [Mechanical and Aerospace Engineering Department](http://maeweb.ucsd.edu/) at the University of California, San Diego. He is a faculty member with the [21st Century China Center][21ccc] and the [Center for Commerce and Diplomacy][ccd], both located at UC San Diego. He is also a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/) at Johns Hopkins SAIS. Read more [here](/about/).
+Prof. Davidson is an assistant professor in the [School of Global Policy and Strategy](http://gps.ucsd.edu/) and the [Mechanical and Aerospace Engineering Department](http://maeweb.ucsd.edu/) at the University of California, San Diego. He is a faculty member with the [21st Century China Center][21ccc] the [Center for Commerce and Diplomacy][ccd], and the [Japan Forum for Innovation and Technology][jfit], all located at UC San Diego. He is also a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/) at Johns Hopkins SAIS. Read more [here](/about/).
 
 
 
@@ -107,3 +107,5 @@ Prof. Davidson is an assistant professor in the [School of Global Policy and Str
 [ccd]: http://ccd.ucsd.edu/
 [belfer]: https://www.belfercenter.org/
 [enrp]: https://www.belfercenter.org/program/environment-and-natural-resources
+[jfit]: https://jfit.ucsd.edu/
+
