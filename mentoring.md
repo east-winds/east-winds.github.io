@@ -61,10 +61,13 @@ Interested students are highly encouraged to take relevant energy policy courses
 
 For life tips on a career in energy policy, [Dan Kammen's website][kammen] is a good start.
 
-#### Ph.D.
+#### Joint Ph.D. in Political Science and International Affairs
 
 The Department of Political Science and GPS offer a joint [Ph.D. in Political Science and International Affairs][gps-phd]. This prepares students for careers in political science, including a core curriculum shared with the political science Ph.D. degree.
 
+### Course schedules
+
+The UCSD Schedule of Classes is somewhat difficult to navigate, so here is a set of "quickview" scripts to find out when classes are typically taught and what your favorite profs are teaching: [ucsd-class-schedule-quickview][git-quickview]
 
 ### Other Opportunities
 
@@ -102,3 +105,5 @@ Prof. Davidson is a faculty mentor with the [Science Policy Fellows Program][sci
 [nsf-grfp]: https://www.nsfgrfp.org/
 [ispo-funding]: https://ispo.ucsd.edu/advising/financial/scholarships-grants.html
 [caltech-funding]: https://www.gradoffice.caltech.edu/financialsupport/ExternalInternational
+
+[git-quickview]: https://github.com/east-winds/ucsd-class-schedule-quickview
