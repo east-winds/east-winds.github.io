@@ -27,7 +27,7 @@ Course materials and sample code will be available publicly at the [course repo]
 
 **Course schedule**
 
-This course will be taught remote in FA20.
+This course will be taught remote in Fall 2021.
 
 <a onclick="post_link()" href="#">View on Schedule of Classes</a>
 
@@ -35,7 +35,7 @@ This course will be taught remote in FA20.
 function post_link() {
 	const url = "https://act.ucsd.edu/scheduleOfClasses/scheduleOfClassesStudentResult.htm";
 	const data = {
-							selectedTerm: "FA20",
+							selectedTerm: "FA21",
 							xsoc_term: "",
 							loggedIn: false,
 							tabNum: "tabs-ins",
