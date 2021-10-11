@@ -8,6 +8,8 @@ published: true
 
 ## Refereed Journal Articles ##
 
+**Davidson, M.**, Karplus, V. J., Zhang, D., & Zhang, X. (2021). [Policies and Institutions to Support Carbon Neutrality in China by 2060](/2021-08-24-policies-institutions-china-carbon-neutrality/). _Economics of Energy & Environmental Policy_, 10(2).
+
 Guo, H., **Davidson, M. R.**, Chen, Q., Zhang, D., Jiang, N., Xia, Q., Kang, C., and Zhang, X. (2020). [Power market reform in China: Motivations, progress, and recommendations.](/2020-07-23-china-power-market-reform-energy-policy/) _Energy Policy_, 145, 111717.
 
 **Davidson, M. R.**, & Pérez-Arriaga, I. (2020). [Avoiding Pitfalls in Reforming China’s Electricity Sector](/2019-12-16-avoiding-pitfalls-china-electricity-reforms/). _The Energy Journal_, 41(3).
