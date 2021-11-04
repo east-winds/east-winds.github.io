@@ -14,6 +14,8 @@ I am a faculty member with the [21st Century China Center][21ccc] (where I run a
 
 Previously, I was a post-doctoral research fellow in the [Harvard Kennedy School's Belfer Center for Science and International Affairs][belfer], and received my Ph.D. in engineering systems and an S.M. in technology and policy from the [MIT Institute for Data, Systems, and Society](https://idss.mit.edu/), where I was also a researcher with the [MIT Joint Program on the Science and Policy of Global Change](http://globalchange.mit.edu). Prior to MIT, I worked for the [Natural Resources Defense Council](https://www.nrdc.org/) and was a Fulbright fellow in the [Tsinghua University Department of Energy and Power Engineering](http://www.te.tsinghua.edu.cn/publish/teen/index.html).
 
+[**Download CV**](https://drive.google.com/file/d/1K7R3tf54fY_FYJubj97W3yP5Oazb3Fci/view?usp=sharing)
+
 My office locations (when on-campus activities resume):
 - MAE: [EBUII][ebuii]-465 (4th floor)
 - GPS: [RBC][rbc]-1414 (4th floor)
