@@ -65,6 +65,11 @@ For life tips on a career in energy policy, [Dan Kammen's website][kammen] is a 
 
 The Department of Political Science and GPS offer a joint [Ph.D. in Political Science and International Affairs][gps-phd]. This prepares students for careers in political science, including a core curriculum shared with the political science Ph.D. degree.
 
+### Power and Energy Systems @ UCSD
+
+The [Power and Energy Systems Group @ UCSD][ucsd-pes] is designed to integrate power and energy systems research/programs and enhance the community of power and energy systems researchers on campus. We facilitate collaborations among students and faculty across departments/centers, provide feedback to students' work through biweekly meetings, and provide graduate student career mentoring.
+
+
 ### Course schedules
 
 The UCSD Schedule of Classes is somewhat difficult to navigate, so here is a set of "quickview" scripts to find out when classes are typically taught and what your favorite profs are teaching: [ucsd-class-schedule-quickview][git-quickview]
@@ -95,6 +100,7 @@ Prof. Davidson is a faculty mentor with the [Science Policy Fellows Program][sci
 [gps-phd]: https://polisci.ucsd.edu/grad/prospective-students/interdisciplinary-phd-program/index.html
 [gps-masters]: http://gps.ucsd.edu/admissions/degrees-at-a-glance.html
 [gps-admissions]: http://gps.ucsd.edu/admissions/contact-admission.html
+[ucsd-pes]: https://power-energy.eng.ucsd.edu/
 [science-policy]: https://gps.ucsd.edu/faculty-research/research/science-policy-fellows.html
 [postdoc]: http://postdoc.ucsd.edu/
 [foundation]: https://foundationrelations.ucsd.edu/funding-opportunities/postdoctoral-funding-opportunities.html
