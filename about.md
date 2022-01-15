@@ -29,6 +29,24 @@ I am a postdoctoral researcher in the School of Global Policy and Strategy at th
 I was previously a postdoctoral fellow at the Idaho National Laboratory and the University of Arkansas. I develop mixed-integer programming, chance constraint and model predictive control formulations for biomass feeding systems and biomass supply chains. Before joining Idaho National Laboratory, I was a Data and Operations Research Science Intern at Principal Financial Group, where I developed portfolio optimization algorithms and risk hedging techniques. I hold a Ph.D. of Industrial Engineering from Iowa State University, an M.S. of Industrial Engineering from Sabanci University, Turkey and a B.S. of Industrial Engineering from Istanbul Technical University, Turkey. My Ph.D. research analyzes optimal expansion decisions in transmission network and engineering design.
 
 
+### Manh (Tyson) Dao
+![Portrait Tyson Dao <](https://drive.google.com/uc?export=view&id=1CUakKRmPp3GwZlwKul7zqC7CrfE0qgRj)
+
+Tyson is pursuing a Ph.D. in Mechanical and Aerospace Engineering, with a focus on Energy Systems at UCSD. He has a keen interest in sustainable development, climate change and renewable energy. His current research involves combining engineering and political-economic principles to better understand global energy trends. In particular, he’s interested in Vietnam’s energy transition and its implication in the broader ASEAN context. In his free time, Tyson enjoys working out, playing his guitar and going on road trips.
+
+
+### Dinah Shi
+![Portait Dinah Shi <](https://drive.google.com/uc?export=view&id=1eH-wRoNXd1OXwDjIoeL0keMsJkddcro-)
+
+Dinah is pursuing a Master of Chinese Economic and Political Affairs in the School of Global Policy and Strategy at UCSD with a specialization in Chinese Environment. She is interested in the engineering and policy implications of decarbonization of Chinese energy systems. Dinah holds a Bachelor of Software Engineering from the University of Waterloo. Prior to UCSD, she worked as a software engineer in private industry.
+
+
+### Huizhong (Sonia) Tan
+![Portrait Sonia Tan <](https://drive.google.com/uc?export=view&id=1tBh2XIs1sofQ_soBoeXI4HPo9e6e_Kjk)
+
+I am a second-year Master of Chinese Economics and Political Affairs student, with a focus on Chinese economics and industrial policy. I am interested in pursuing a career as a research analyst, since I am passionate about researching the impact of regulation and the interaction between government and enterprises on industry as well as macroeconomics. Working with Professor Davison on the low-carbon transition of the Chinese energy state-owned enterprises is providing me with an excellent opportunity to expand my research interests in renewable energy policies.
+
+
 ### Jiahe (Jeffrey) Feng
 ![Portrait Jeffrey Feng <](https://drive.google.com/uc?export=view&id=1TgRGwez2JY63LppK57UHIyVAbrEaa-rx)
 
@@ -43,17 +61,6 @@ Isac Lee is a 4th year data science major at UCSD and is currently working on Pr
 ![Portrait Arjun Sawhney <](https://drive.google.com/uc?export=view&id=1o0HT6own_W8ZE2iWbl87fUZa5BOcRas0)
 
 I'm a third year undergraduate student in the Data Science program. I have long been passionate about sustainability & climate, data analysis, and art. Working with the geodata team in the Davidson lab has allowed me explore the confluence of these interests and expand my knowledge. I am currently conducting research on renewable resource assessment and planning in India through geospatial data analysis. My work attempts to answer pertinent questions regarding the extent to which prioritizing political suitability influences wind and solar potential in India
-
-### Dinah Shi
-![Portait Dinah Shi <](https://drive.google.com/uc?export=view&id=1eH-wRoNXd1OXwDjIoeL0keMsJkddcro-)
-
-Dinah is pursuing a Master of Chinese Economic and Political Affairs in the School of Global Policy and Strategy at UCSD with a specialization in Chinese Environment. She is interested in the engineering and policy implications of decarbonization of Chinese energy systems. Dinah holds a Bachelor of Software Engineering from the University of Waterloo. Prior to UCSD, she worked as a software engineer in private industry. 
-
-
-### Huizhong (Sonia) Tan
-![Portrait Sonia Tan <](https://drive.google.com/uc?export=view&id=1tBh2XIs1sofQ_soBoeXI4HPo9e6e_Kjk)
-
-I am a second-year Master of Chinese Economics and Political Affairs student, with a focus on Chinese economics and industrial policy. I am interested in pursuing a career as a research analyst, since I am passionate about researching the impact of regulation and the interaction between government and enterprises on industry as well as macroeconomics. Working with Professor Davison on the low-carbon transition of the Chinese energy state-owned enterprises is providing me with an excellent opportunity to expand my research interests in renewable energy policies.
 
 
 ### Yunhan Zhang
