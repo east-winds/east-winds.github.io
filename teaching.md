@@ -9,7 +9,7 @@ image: /img/ucsd_campus_small.png
 
 Visit the [UCSD course schedule][ucsd-courseschedule] to see current offerings.
 
-But the UCSD Schedule of Classes is somewhat difficult to navigate, so here is a set of "quickview" scripts to find out when classes are typically taught and what your favorite profs are teaching: [ucsd-class-schedule-quickview][git-quickview]
+But since the UCSD Schedule of Classes is somewhat difficult to navigate, here is a set of "quickview" scripts to find out when classes are typically taught and what your favorite profs teach: [ucsd-class-schedule-quickview][git-quickview]
 
 ### MAE 107: Computational Methods in Engineering
 
