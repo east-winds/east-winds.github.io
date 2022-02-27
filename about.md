@@ -57,6 +57,14 @@ I am a Data Science & Cognitive Science major (class of 2022) with experience in
 
 Isac Lee is a 4th year data science major at UCSD and is currently working on Professor Davidson’s Energy Justice Project to research the social implications and inequity of California’s transition to a low-carbon economy through solar PV. He hopes to use his educational background in data science to delve deeper into his personal interests in renewable energy and space exploration after graduation. In his free time, Isac loves to be active through sports/hikes and enjoys watching sci-fi movies/shows.
 
+### Zecheng (Justin) Li
+
+![Portrait Zecheng Li <](https://drive.google.com/uc?export=view&id=1GwOPOsIL4vKhPTnyY4N9H3tyWfXThsdL)
+
+
+I am a third year student at UCSD majoring in Math-Economics and minoring in Data Science. I am interested in the stories behind the data and hope to use my knowledge of econometrics and machine learning algorithms to dig deeper into the information behind the data. Currently, I am working on the China Energy SOE team, analyzing corporate-level finances and researching employee replacement in China to achieve low-carbon economy goals. In my spare time, I enjoy working out with friends and preparing cuisines from around the world.
+
+
 ### Arjun Sawhney
 ![Portrait Arjun Sawhney <](https://drive.google.com/uc?export=view&id=1o0HT6own_W8ZE2iWbl87fUZa5BOcRas0)
 
