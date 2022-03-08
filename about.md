@@ -34,6 +34,10 @@ I was previously a postdoctoral fellow at the Idaho National Laboratory and the 
 
 Tyson is pursuing a Ph.D. in Mechanical and Aerospace Engineering, with a focus on Energy Systems at UCSD. He has a keen interest in sustainable development, climate change and renewable energy. His current research involves combining engineering and political-economic principles to better understand global energy trends. In particular, he’s interested in Vietnam’s energy transition and its implication in the broader ASEAN context. In his free time, Tyson enjoys working out, playing his guitar and going on road trips.
 
+### Nikki Emam
+![Portait Nikki Emam <](https://drive.google.com/uc?export=view&id=1H9ctPW7cjugb994RLcfyk5VOAGfoFQUz)
+
+Nikki is pursuing a Master of Public Policy in the School of Global Policy and Strategy at UCSD with a specialization in energy and environmental policy. Prior to this, Nikki was a Regional Affairs Analyst at the California Independent System Operator, where she conducted policy analysis and furthered strategic initiatives to expand participation in the Western Energy Imbalance Market. Nikki’s research at the Davidson Lab focuses on understanding the political economy of state-level energy policy coordination in the Western United States.
 
 ### Dinah Shi
 ![Portait Dinah Shi <](https://drive.google.com/uc?export=view&id=1eH-wRoNXd1OXwDjIoeL0keMsJkddcro-)
