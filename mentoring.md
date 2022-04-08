@@ -31,7 +31,6 @@ The [MAE PhD][mae-phd] curriculum consists of a set of courses in a "major" spec
 	- MAE 280A-B. Linear Systems Theory, Linear Control Design
 	- MAE 290A–B. Numerical Methods for Linear Algebra, ODE Simulation, and Differential Equations
 - Related courses:
-	- MAE 255. Boundary Layer and Renewable Energy Meteorology
 	- MAE 254. Energy Materials and Applications
 	- MAE 256. Radiative Transfer for Energy Applications
 
