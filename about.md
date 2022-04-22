@@ -50,6 +50,11 @@ Dinah is pursuing a Master of Chinese Economic and Political Affairs in the Scho
 
 I am a second-year Master of Chinese Economics and Political Affairs student, with a focus on Chinese economics and industrial policy. I am interested in pursuing a career as a research analyst, since I am passionate about researching the impact of regulation and the interaction between government and enterprises on industry as well as macroeconomics. Working with Professor Davison on the low-carbon transition of the Chinese energy state-owned enterprises is providing me with an excellent opportunity to expand my research interests in renewable energy policies.
 
+### Zhenhua Zhang
+![Portrait Zhenhua Zhang <](https://drive.google.com/uc?export=view&id=1e7e5XSKfoMXHa6KybJvMIaENGKtTvF_1)
+
+Zhenhua is a Ph.D. student in Mechanical and Aerospace Engineering at UC San Diego with a focus on policy questions relevant to electricity markets and energy systems. He combines engineering methods with the understanding of political economy to identify the transition strategies towards carbon neutrality. His previous research focuses on the operational details of renewable energy technologies and the economic and financial aspects of behind-the-meter renewable projects. Zhenhua has worked on battery storage at Tesla and startups for a couple of years, where he developed software apps for system-level simulations and real-time controls of commercial and industrial battery storage projects in California and China. Zhenhua holds an M.S. in Civil and Environmental Engineering from Stanford University, a B.S. in Environmental Science, and a minor in Economics from Fudan University.
+
 
 ### Jiahe (Jeffrey) Feng
 ![Portrait Jeffrey Feng <](https://drive.google.com/uc?export=view&id=1TgRGwez2JY63LppK57UHIyVAbrEaa-rx)
