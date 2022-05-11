@@ -8,6 +8,10 @@ published: true
 
 ## Refereed Journal Articles ##
 
+**Davidson, M. R.**, & Pearson, M. M. (2022). [Static Electricity: Institutional and Ideational Barriers to China’s Market Reforms](/2022-05-10-static-electricity/). _Studies in Comparative International Development_.
+
+Gao, X., **Davidson, M.**, Busby, J., Shearer, C., & Eisenman, J. (2021). [The Challenges of Coal Phaseout: Coal Plant Development and Foreign Finance in Indonesia and Vietnam](/2021-10-15-challenges-coal-phaseout-indonesia-vietnam/). _Global Environmental Politics_, 21(4), 1–24.
+
 **Davidson, M.**, Karplus, V. J., Zhang, D., & Zhang, X. (2021). [Policies and Institutions to Support Carbon Neutrality in China by 2060](/2021-08-24-policies-institutions-china-carbon-neutrality/). _Economics of Energy & Environmental Policy_, 10(2).
 
 Guo, H., **Davidson, M. R.**, Chen, Q., Zhang, D., Jiang, N., Xia, Q., Kang, C., and Zhang, X. (2020). [Power market reform in China: Motivations, progress, and recommendations.](/2020-07-23-china-power-market-reform-energy-policy/) _Energy Policy_, 145, 111717.
@@ -21,26 +25,21 @@ Guo, H., **Davidson, M. R.**, Chen, Q., Zhang, D., Jiang, N., Xia, Q., Kang, C.,
 
 ## Refereed Book Chapters and Other Publications ##
 
+Lee, H., Schrag, D. P., Bunn, M., **Davidson, M.**, Peng, W., Wang, P., & Mao, Z. (2021). [Foundations for a Low-Carbon Energy System in China](https://www.cambridge.org/core/books/foundations-for-a-lowcarbon-energy-system-in-china/1E9D1A1911D0395E1DC3503919138358). _Cambridge University Press_.
+
+**Davidson, M. R**. (2021, November 18). [China’s Power Outage](/2021-11-18-china-power-outage-foreign-affairs/). _Foreign Affairs_.
+
 Azevedo, I., **Davidson, M. R.**, Jenkins, J. D., Karplus, V. J., & Victor, D. G. (2020). [The Paths to Net Zero: How Technology Can Save the Planet](/2020-04-13-paths-to-net-zero/). _Foreign Affairs_, May/June.
-
-
-**Davidson, M. R.** "From Barrier to Bridge: The Role of Coal in China’s Decarbonization". In edited volume on China's decarbonization pathways, D. Schrag and H. Lee (Eds.). _Cambridge University Press_, _forthcoming_.
-
 
 **Davidson, M. R.** [Technology Integration in China’s Electricity System: Central Targets and Local Challenges](/2019-06-30-cup-technology-integration-china-electricity/). (2019). In T. G. Rawski & L. Brandt (Eds.), _Policy, Regulation and Innovation in China’s Electricity and Telecom Industries_.
 
 
-
 **Davidson, M. R.**, Kahrl, F., & Karplus, V. J. (2017). [Towards a political economy framework for wind power: Does China break the mould?](/2017-04-12-oup-political-economy-framework-wind-china/) In D. Arent, C. Arndt, M. Miller, F. Tarp, & O. Zinaman (Eds.), _The Political Economy of Clean Energy Transitions_ (pp. 250–270). Oxford University Press.
-
-## In Progress ##
-
-**Davidson, M. R.**, Pearson, M. "Static Electricity: Institutional and Ideational Barriers to China’s Market Reforms."
-
-**Davidson, M. R.** "Electricity Markets in a Carbon-Constrained World: Reforming Scheduling Practices in China and India."
 
 
 ## Working Papers and Reports ##
+
+Bowen, R., Broz, J. L., Burney, J., Costello, C., **Davidson, M. R.**, Li, H., & Rauch, J. E. (2021). [The Role of Trade in Addressing Climate Change: Recommendations for Policies and Practices (pdf)](https://ccd.ucsd.edu/_files/2021-report_role-of-trade-in-addressing-climate-change.pdf). UC San Diego Center for Commerce and Diplomacy Task Force on Climate and Trade.
 
 Liu, S., & **Davidson, M. R.** (2021). [China Trading Power: Improving Environmental and Economic Efficiency of Yunnan’s Electricity Market](/2021-03-18-china-trading-power-yunnan-electricity-market/). Harvard Kennedy School Belfer Center for Science and International Affairs.
 
