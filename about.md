@@ -39,6 +39,11 @@ Tyson is pursuing a Ph.D. in Mechanical and Aerospace Engineering, with a focus 
 
 Nikki is pursuing a Master of Public Policy in the School of Global Policy and Strategy at UCSD with a specialization in energy and environmental policy. Prior to this, Nikki was a Regional Affairs Analyst at the California Independent System Operator, where she conducted policy analysis and furthered strategic initiatives to expand participation in the Western Energy Imbalance Market. Nikki’s research at the Davidson Lab focuses on understanding the political economy of state-level energy policy coordination in the Western United States.
 
+### Jenny Nicolas
+![Portait Jenny Nicolas <](https://drive.google.com/uc?export=view&id=1o6LYmCVQjcvUaiRmmesSnmNPbPkcrFKZ)
+
+Jenny is pursuing a Ph.D. in Materials Science and Engineering at UCSD. She is interested in advancing renewable energy penetration by examining energy storage technologies at both device and system levels. Prior to joining the Davidson Lab, she worked as a project manager in commercial and utility-scale solar development. Jenny earned an integrated Master’s degree in Chemistry from the University of Edinburgh (Scotland), where the focus of her thesis was phase change materials for heat storage batteries. In her free time, Jenny enjoys running, eating desserts and watching documentaries.
+
 ### Dinah Shi
 ![Portait Dinah Shi <](https://drive.google.com/uc?export=view&id=1eH-wRoNXd1OXwDjIoeL0keMsJkddcro-)
 
