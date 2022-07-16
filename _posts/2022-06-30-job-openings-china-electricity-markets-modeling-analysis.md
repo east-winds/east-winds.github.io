@@ -6,7 +6,7 @@ tags: [post, home]
 image: /img/transmission_tower.jpg
 ---
 
-##JOB OPENINGS: CHINA ELECTRICITY MARKETS MODELING AND ANALYSIS
+## JOB OPENINGS: CHINA ELECTRICITY MARKETS MODELING AND ANALYSIS
 
 University of California San Diego
 June 2022
@@ -23,13 +23,13 @@ The positions will be supervised by Michael Davidson, Assistant Professor in GPS
 The postdoc will be responsible for supporting the development of open-source modeling and simulation tools and will advise and assist in data collection. The postdoc should be well-versed in least-cost energy systems optimization models in one or more modeling languages (e.g., AMPL, GAMS, CVX, Julia/JuMP, Python/Pyomo). Familiarity with planning and operations power sector decision-making and/or electricity market design is preferred. Qualifications:
 Ph.D. in a relevant field, demonstrated research ability and publication track record. Proficiency in Mandarin is a plus, but not required.
 
-For more information and to submit an application: https://apol-recruit.ucsd.edu/JPF03249
+For more information and to submit an application: [https://apol-recruit.ucsd.edu/JPF03249](https://apol-recruit.ucsd.edu/JPF03249)
 
 ## 2	Research Associate, 21st Century China Center
 The Staff Research Associate, a one-year position with possibility of renewal, will work with 21CCC researchers on data collection, organization, analysis, and writing on the center-wide priority of energy and climate change in China. Research topics will involve monitoring developments in the electricity sector and helping to produce open and reproducible datasets and modeling on the alignment of electricity market developments with carbon neutrality. The Research Associate will also assist in communicating and coordinating with collaborating organizations in the U.S. and China to disseminate research outputs. Qualifications: Proficiency reading and writing in Chinese; familiarity with energy, climate, and environmental research; theoretical knowledge in Social Sciences, International Relations or related field.
 
 For more information and to submit an application:
-https://employment.ucsd.edu/research-associate-116865/job/19302422
+[https://employment.ucsd.edu/research-associate-116865/job/19302422](https://employment.ucsd.edu/research-associate-116865/job/19302422)
 
 
 
