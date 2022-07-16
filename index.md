@@ -14,6 +14,8 @@ The Davidson Lab focuses on the **engineering implications** and **institutional
 
 <br>
 
+**We are hiring for two positions (postdoc and research associate) in China's electricity markets modeling and analysis**. See the [job announcements](/2022-06-30-job-openings-china-electricity-markets-modeling-analysis/) for more information.
+
 **We are recruiting PhD and MS students to join the lab:** Please see the [academic programs and mentoring opportunities](/mentoring/) page for more information.
 
 
