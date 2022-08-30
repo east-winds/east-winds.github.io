@@ -11,6 +11,7 @@ Wind energy resource estimates commonly depend on simulated wind speed profiles 
 
 [Open Access](https://onlinelibrary.wiley.com/doi/10.1002/we.2759)
 
+[LBNL Press Release](https://emp.lbl.gov/news/can-meteorological-models-accurately)
 
 Recommended citation:
 
