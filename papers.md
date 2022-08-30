@@ -8,6 +8,9 @@ published: true
 
 ## Refereed Journal Articles ##
 
+**Davidson, M. R.**, & Millstein, D. (2022). [Limitations of reanalysis data for wind power applications](/2022-06-06-limitations-reanalysis-wind-power/). _Wind Energy_, 25(9), 1646–1653.
+
+
 **Davidson, M. R.**, & Pearson, M. M. (2022). [Static Electricity: Institutional and Ideational Barriers to China’s Market Reforms](/2022-05-10-static-electricity/). _Studies in Comparative International Development_.
 
 Gao, X., **Davidson, M.**, Busby, J., Shearer, C., & Eisenman, J. (2021). [The Challenges of Coal Phaseout: Coal Plant Development and Foreign Finance in Indonesia and Vietnam](/2021-10-15-challenges-coal-phaseout-indonesia-vietnam/). _Global Environmental Politics_, 21(4), 1–24.
