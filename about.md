@@ -29,6 +29,12 @@ I am a postdoctoral researcher in the School of Global Policy and Strategy at th
 I was previously a postdoctoral fellow at the Idaho National Laboratory and the University of Arkansas. I develop mixed-integer programming, chance constraint and model predictive control formulations for biomass feeding systems and biomass supply chains. Before joining Idaho National Laboratory, I was a Data and Operations Research Science Intern at Principal Financial Group, where I developed portfolio optimization algorithms and risk hedging techniques. I hold a Ph.D. of Industrial Engineering from Iowa State University, an M.S. of Industrial Engineering from Sabanci University, Turkey and a B.S. of Industrial Engineering from Istanbul Technical University, Turkey. My Ph.D. research analyzes optimal expansion decisions in transmission network and engineering design.
 
 
+### Shiny Choudhury
+![Portrait Shiny Choudhury <](https://drive.google.com/uc?export=view&id=1t9-F35PkHwJeBstpR-YsY3cherOF0EtM)
+
+Shiny is pursuing a Ph.D. in Mechanical and Aerospace Engineering at UCSD. She is co-advised by George Tynan and Michael Davidson, with whom she explores decarbonization pathways under various technological and market contexts. Shiny has a background in power and energy system modeling, controls, and AI/ML. She holds an M.Sc from UC Irvine, working in the Advanced Power and Propulsion Lab (APEP), exploring hydrogen combustion for stationary burners. In her free time, Shiny enjoys yoga, kickboxing, running, or being in the waters at Scripps pier!
+
+
 ### Manh (Tyson) Dao
 ![Portrait Tyson Dao <](https://drive.google.com/uc?export=view&id=1CUakKRmPp3GwZlwKul7zqC7CrfE0qgRj)
 
@@ -50,15 +56,30 @@ Jenny is pursuing a Ph.D. in Materials Science and Engineering at UCSD. She is i
 Dinah is pursuing a Master of Chinese Economic and Political Affairs in the School of Global Policy and Strategy at UCSD with a specialization in Chinese Environment. She is interested in the engineering and policy implications of decarbonization of Chinese energy systems. Dinah holds a Bachelor of Software Engineering from the University of Waterloo. Prior to UCSD, she worked as a software engineer in private industry.
 
 
-### Huizhong (Sonia) Tan
-![Portrait Sonia Tan <](https://drive.google.com/uc?export=view&id=1tBh2XIs1sofQ_soBoeXI4HPo9e6e_Kjk)
-
-I am a second-year Master of Chinese Economics and Political Affairs student, with a focus on Chinese economics and industrial policy. I am interested in pursuing a career as a research analyst, since I am passionate about researching the impact of regulation and the interaction between government and enterprises on industry as well as macroeconomics. Working with Professor Davison on the low-carbon transition of the Chinese energy state-owned enterprises is providing me with an excellent opportunity to expand my research interests in renewable energy policies.
 
 ### Zhenhua Zhang
 ![Portrait Zhenhua Zhang <](https://drive.google.com/uc?export=view&id=1e7e5XSKfoMXHa6KybJvMIaENGKtTvF_1)
 
 Zhenhua is a Ph.D. student in Mechanical and Aerospace Engineering at UC San Diego with a focus on policy questions relevant to electricity markets and energy systems. He combines engineering methods with the understanding of political economy to identify the transition strategies towards carbon neutrality. His previous research focuses on the operational details of renewable energy technologies and the economic and financial aspects of behind-the-meter renewable projects. Zhenhua has worked on battery storage at Tesla and startups for a couple of years, where he developed software apps for system-level simulations and real-time controls of commercial and industrial battery storage projects in California and China. Zhenhua holds an M.S. in Civil and Environmental Engineering from Stanford University, a B.S. in Environmental Science, and a minor in Economics from Fudan University.
+
+
+
+### Zecheng (Justin) Li
+
+![Portrait Zecheng Li <](https://drive.google.com/uc?export=view&id=1GwOPOsIL4vKhPTnyY4N9H3tyWfXThsdL)
+
+
+I am a third year student at UCSD majoring in Math-Economics and minoring in Data Science. I am interested in the stories behind the data and hope to use my knowledge of econometrics and machine learning algorithms to dig deeper into the information behind the data. Currently, I am working on the China Energy SOE team, analyzing corporate-level finances and researching employee replacement in China to achieve low-carbon economy goals. In my spare time, I enjoy working out with friends and preparing cuisines from around the world.
+
+
+
+
+### Alumni
+
+### Shasank Bonthala
+![Portrait Shasank Bonthala <](https://drive.google.com/uc?export=view&id=1kWC8RGiCgMZrMgEwCoHV_y9YIq3pb1YH)
+
+I am a third-year Data Science student working with the renewable energy forecasts team. My interest in research comes from how data can tell stories. Individuals can use the same data set and based on their own interpretations, come to different conclusions and that is fascinating to me. I am a huge sports fan (literally any sport) and in my free time I love watching sports (basketball and football being my favorites). I am also a die hard Laker fan!
 
 
 ### Jiahe (Jeffrey) Feng
@@ -70,32 +91,6 @@ I am a Data Science & Cognitive Science major (class of 2022) with experience in
 ![Portrait Isac Lee <](https://drive.google.com/uc?export=view&id=11LWIAfRBOqUUJpXvLxuCEunGfZJl55x1)
 
 Isac Lee is a 4th year data science major at UCSD and is currently working on Professor Davidson’s Energy Justice Project to research the social implications and inequity of California’s transition to a low-carbon economy through solar PV. He hopes to use his educational background in data science to delve deeper into his personal interests in renewable energy and space exploration after graduation. In his free time, Isac loves to be active through sports/hikes and enjoys watching sci-fi movies/shows.
-
-### Zecheng (Justin) Li
-
-![Portrait Zecheng Li <](https://drive.google.com/uc?export=view&id=1GwOPOsIL4vKhPTnyY4N9H3tyWfXThsdL)
-
-
-I am a third year student at UCSD majoring in Math-Economics and minoring in Data Science. I am interested in the stories behind the data and hope to use my knowledge of econometrics and machine learning algorithms to dig deeper into the information behind the data. Currently, I am working on the China Energy SOE team, analyzing corporate-level finances and researching employee replacement in China to achieve low-carbon economy goals. In my spare time, I enjoy working out with friends and preparing cuisines from around the world.
-
-
-### Arjun Sawhney
-![Portrait Arjun Sawhney <](https://drive.google.com/uc?export=view&id=1o0HT6own_W8ZE2iWbl87fUZa5BOcRas0)
-
-I'm a fourth year undergraduate student in the Data Science program. I have long been passionate about sustainability & climate, data analysis, and art. Working with the geodata team in the Davidson lab has allowed me explore the confluence of these interests and expand my knowledge. I am currently conducting research on renewable resource assessment and planning in India through geospatial data analysis. My work attempts to answer pertinent questions regarding the extent to which prioritizing political suitability influences wind and solar potential in India.
-
-
-### Yunhan Zhang
-![Portrait Yunhan Zhang <](https://drive.google.com/uc?export=view&id=1PU2JUNWAmT3IKIyTt_L4h3LQ6Nzlc7jN)
-
-I am a fourth-year student majoring in Data Science & Joint Major of Mathematics and Economics. I am currently working on data extraction and analysis with the China Power Market team in Dr. Davidson's lab. We are streamlining the workflow of scraping data from multiple sources and types. My personal interest is exploring how could data can help market decisions.
-
-### Alumni
-
-### Shasank Bonthala
-![Portrait Shasank Bonthala <](https://drive.google.com/uc?export=view&id=1kWC8RGiCgMZrMgEwCoHV_y9YIq3pb1YH)
-
-I am a third-year Data Science student working with the renewable energy forecasts team. My interest in research comes from how data can tell stories. Individuals can use the same data set and based on their own interpretations, come to different conclusions and that is fascinating to me. I am a huge sports fan (literally any sport) and in my free time I love watching sports (basketball and football being my favorites). I am also a die hard Laker fan!
 
 ### Justin Lu
 ![Portrait Justin Lu <](https://drive.google.com/uc?export=view&id=1JehMs-UjpgBRtaGuSsDqNimmKktmyqzh)
@@ -112,10 +107,26 @@ I am a Mechanical Engineering major with a specialization in Renewable Energy an
 
 I am a data science major 2021er with a specialization in data analysis, data mining, machine learning and deep learning. I am currently in the Geodata group implementing methods for masks and related computations on geospatial data. I am interested in applying data analysis to solve various social problems. I love playing my guitar and singing when I’m free.
 
+### Arjun Sawhney
+![Portrait Arjun Sawhney <](https://drive.google.com/uc?export=view&id=1o0HT6own_W8ZE2iWbl87fUZa5BOcRas0)
+
+I'm a fourth year undergraduate student in the Data Science program. I have long been passionate about sustainability & climate, data analysis, and art. Working with the geodata team in the Davidson lab has allowed me explore the confluence of these interests and expand my knowledge. I am currently conducting research on renewable resource assessment and planning in India through geospatial data analysis. My work attempts to answer pertinent questions regarding the extent to which prioritizing political suitability influences wind and solar potential in India.
+
+
+### Huizhong (Sonia) Tan
+![Portrait Sonia Tan <](https://drive.google.com/uc?export=view&id=1tBh2XIs1sofQ_soBoeXI4HPo9e6e_Kjk)
+
+I am a second-year Master of Chinese Economics and Political Affairs student, with a focus on Chinese economics and industrial policy. I am interested in pursuing a career as a research analyst, since I am passionate about researching the impact of regulation and the interaction between government and enterprises on industry as well as macroeconomics. Working with Professor Davison on the low-carbon transition of the Chinese energy state-owned enterprises is providing me with an excellent opportunity to expand my research interests in renewable energy policies.
+
 ### Ananya Thridandam
 ![Portrait Ananya Thridandam <](https://drive.google.com/uc?export=view&id=1fnqifH7PopcoqhTrxqS8QKoZ02mSS5Cy)
 
 Ananya is an undergraduate Mechanical Engineering major specializing in Renewable Energy and Environmental Flows.  She is interested in pursuing a masters degree in engineering, and hopes to continue renewable energy research along the way.  She is currently researching regionalization and inter-state renewable energy trade in the western United States with the Davidson Lab.  Additionally, she is an active member of the student organization, Engineers for a Sustainable World at UCSD.
+
+### Yunhan Zhang
+![Portrait Yunhan Zhang <](https://drive.google.com/uc?export=view&id=1PU2JUNWAmT3IKIyTt_L4h3LQ6Nzlc7jN)
+
+I am a fourth-year student majoring in Data Science & Joint Major of Mathematics and Economics. I am currently working on data extraction and analysis with the China Power Market team in Dr. Davidson's lab. We are streamlining the workflow of scraping data from multiple sources and types. My personal interest is exploring how could data can help market decisions.
 
 [21ccc]: http://china.ucsd.edu/
 [cdl]: http://chinadatalab.ucsd.edu/projects/
