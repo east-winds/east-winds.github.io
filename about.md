@@ -87,6 +87,11 @@ I am a third-year Data Science student working with the renewable energy forecas
 
 I am a Data Science & Cognitive Science major (class of 2022) with experience in the fields of data analysis, data engineering, and machine learning. I am working on the Geodata Team for the Davidson lab, where I am implementing functions to manipulate and visualize geospatial masks and shapefiles. I am enthusiastic about data and how we can efficiently solve problems with it, and am planning to attend graduate school in data science.
 
+### Chi (Will) Gao
+![Portrait Will Gao <](https://drive.google.com/uc?export=view&id=1tLqN8dLNi1_pQBEUQSvU_3UcIUCRQlMl)
+
+Chi (Will) Gao graduated with a Master of Chinese Economic and Political Affairs with a specialization in Chinese Environment at the School of Global Policy and Strategy. Academically, he is interested in the energy transition in China and beyond, particularly the interaction between political institutions and the power market. He holds a bachelor's degree in mathematics and computer science from UC San Diego.
+
 ### Isac Lee
 ![Portrait Isac Lee <](https://drive.google.com/uc?export=view&id=11LWIAfRBOqUUJpXvLxuCEunGfZJl55x1)
 
