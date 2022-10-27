@@ -1,6 +1,5 @@
 ---
 layout: page
-subtitle: Michael Davidson
 use-site-title: true
 published: true
 ---
