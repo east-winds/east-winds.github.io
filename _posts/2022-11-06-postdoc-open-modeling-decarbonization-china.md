@@ -6,14 +6,6 @@ tags: [post, home]
 image: /img/transmission_tower.jpg
 ---
 
-Department: School of Global Policy and Strategy
-
-Salary: Commensurate with experience
-
-Appointment: 12 months (extendable based on mutual agreement and available funding)
-
-Start Date: January 1 2023 / Flexible
-
 The [UC San Diego School of Global Policy and Strategy](http://gps.ucsd.edu/) (GPS) is hiring one or more postdoctoral researchers to conduct open modeling studies of accelerated decarbonization, with a particular focus on China. The postdoc will join the lab of the PI, Michael Davidson, Assistant Professor in GPS and the Department of Mechanical and Aerospace Engineering.
 
 While China’s long-term goals of carbon neutrality have been set, there is considerable uncertainty about (a) the next decade, and (b) the pace, structure, and cost of low-carbon pathways. The transformation of the power sector—central to any decarbonization scenario—is hindered by entrenched incumbents and the institutional and engineering challenges of achieving the massive scale-up of renewable and low-carbon energy sources required. This requires the development of new modeling tools to capture physical resource, engineering, and political economy factors affecting the deployment of low-carbon energy. The postdoctoral researcher(s) will contribute to creating open and broadly accessible data, models, and insights, which target governments, academics, civil society organizations (CSOs), and industry stakeholders. Applications are welcomed in any of the following three areas:
@@ -24,6 +16,13 @@ While China’s long-term goals of carbon neutrality have been set, there is con
 
 The postdoc will be fully integrated into the GPS community, a highly interdisciplinary school of public policy scholars. The postdoc will also be expected to engage with other units on campus researching energy systems, particularly the Jacobs School of Engineering.
 
+### Basics
+
+Salary: Commensurate with experience
+
+Appointment: 12 months (extendable based on mutual agreement and available funding)
+
+Start Date: January 1 2023 / Flexible
 
 ### Qualifications
 
