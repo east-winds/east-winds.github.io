@@ -8,6 +8,10 @@ published: true
 
 ## Refereed Journal Articles ##
 
+Helveston, J. P., He, G., & **Davidson, M. R.** (2022). [Quantifying the cost savings of global solar photovoltaic supply chains](/2022-10-26-quantifying-cost-global-solar-supply-chains/). _Nature_.
+
+**Davidson, M. R.**, Karplus, V. J., Lewis, J. I., Nahm, J., & Wang, A. (2022). [Risks of decoupling from China on low-carbon technologies](/2022-09-15-risks-decoupling-china-low-carbon/). _Science_, 377(6612), 1266–1269.
+
 **Davidson, M. R.**, & Millstein, D. (2022). [Limitations of reanalysis data for wind power applications](/2022-06-06-limitations-reanalysis-wind-power/). _Wind Energy_, 25(9), 1646–1653.
 
 
@@ -42,6 +46,8 @@ Azevedo, I., **Davidson, M. R.**, Jenkins, J. D., Karplus, V. J., & Victor, D. G
 
 ## Working Papers and Reports ##
 
+**Davidson, M. R.** (2022). [Low-Carbon Transition Planning in China’s Coal and Power SOEs: Case of China Energy](/2022-06-03-low-carbon-transition-china-soe-china-energy/). SSRN Scholarly Paper, Rochester, NY.
+
 Bowen, R., Broz, J. L., Burney, J., Costello, C., **Davidson, M. R.**, Li, H., & Rauch, J. E. (2021). [The Role of Trade in Addressing Climate Change: Recommendations for Policies and Practices (pdf)](https://ccd.ucsd.edu/_files/2021-report_role-of-trade-in-addressing-climate-change.pdf). UC San Diego Center for Commerce and Diplomacy Task Force on Climate and Trade.
 
 Liu, S., & **Davidson, M. R.** (2021). [China Trading Power: Improving Environmental and Economic Efficiency of Yunnan’s Electricity Market](/2021-03-18-china-trading-power-yunnan-electricity-market/). Harvard Kennedy School Belfer Center for Science and International Affairs.
@@ -60,6 +66,11 @@ Iychettira, K., Hou, X., **Davidson, M.**, & Urpelainen, J. (2020). [The impact 
 Zhang, D., **Davidson, M. R.**, Gunturu, B., Zhang, X., and Karplus, V. J. (2014). [_An Integrated Assessment of China’s Wind Energy Potential_](/2014-04-01-integrated-assessment-china-wind-energy/) (Report No. 261). Cambridge, MA: MIT Joint Program on the Science and Policy of Global Change.
 
 **Davidson, M. R.** (2013). [Politics of Power in China: Institutional Bottlenecks to Reducing Wind Curtailment Through Improved Transmission](/2013-09-01-politics-power-china-wind-curtailment-transmission/). _International Association for Energy Economics Energy Forum_, 4, 40–42.
+
+## Code Releases ##
+
+**Davidson, M.**, Honaker, W., & Feng, J. (2022, April 10). [GeodataTools/geodata: V0.1.0](/2022-05-13-geodata-package-launch/). Zenodo. https://doi.org/10.5281/zenodo.6432926
+
 
 ## Posters ##
 

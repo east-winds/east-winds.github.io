@@ -15,7 +15,7 @@ Achieving carbon neutrality requires deploying renewable energy at unprecedented
 
 Recommended citation:
 
-Helveston, J. P., He, G., & **Davidson, M. R.** (2022). Quantifying the cost savings of global solar photovoltaic supply chains. _Nature_, 1–5. https://doi.org/10.1038/s41586-022-05316-6
+Helveston, J. P., He, G., & **Davidson, M. R.** (2022). Quantifying the cost savings of global solar photovoltaic supply chains. _Nature_. https://doi.org/10.1038/s41586-022-05316-6
 
 
 
