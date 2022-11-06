@@ -7,7 +7,7 @@ image: /img/ucsd_campus_small.png
 
 ### Openings
 
-**We are hiring for two positions (postdoc and research associate) in China's electricity markets modeling and analysis**. See the [job announcements](/2022-06-30-job-openings-china-electricity-markets-modeling-analysis/) for more information.
+**We are hiring for one or more postdocs to support open modeling of decarbonization in China**. See the [job announcement](/2022-11-06-postdoc-open-modeling-decarbonization-china/) for more information.
 
 **We are recruiting PhD and MS students to join the lab.** Please include in your inquiry (**{{ site.author.email }}**):
 

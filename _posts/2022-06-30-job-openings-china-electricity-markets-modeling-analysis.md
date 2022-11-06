@@ -6,6 +6,8 @@ tags: [post]
 image: /img/transmission_tower.jpg
 ---
 
+## ARCHIVED
+
 **These positions are no longer open.**
 
 ## JOB OPENINGS: CHINA ELECTRICITY MARKETS MODELING AND ANALYSIS
