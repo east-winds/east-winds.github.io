@@ -93,49 +93,26 @@ Zhenhua is a Ph.D. student in Mechanical and Aerospace Engineering at UC San Die
 
 ### Shasank Bonthala
 
-I am a third-year Data Science student working with the renewable energy forecasts team. My interest in research comes from how data can tell stories. Individuals can use the same data set and based on their own interpretations, come to different conclusions and that is fascinating to me. I am a huge sports fan (literally any sport) and in my free time I love watching sports (basketball and football being my favorites). I am also a die hard Laker fan!
-
-
 ### Jiahe (Jeffrey) Feng
-
-I am a Data Science & Cognitive Science major (class of 2022) with experience in the fields of data analysis, data engineering, and machine learning. I am working on the Geodata Team for the Davidson lab, where I am implementing functions to manipulate and visualize geospatial masks and shapefiles. I am enthusiastic about data and how we can efficiently solve problems with it, and am planning to attend graduate school in data science.
 
 ### Chi (Will) Gao
 
-Chi (Will) Gao graduated with a Master of Chinese Economic and Political Affairs with a specialization in Chinese Environment at the School of Global Policy and Strategy. Academically, he is interested in the energy transition in China and beyond, particularly the interaction between political institutions and the power market. He holds a bachelor's degree in mathematics and computer science from UC San Diego.
-
 ### Isac Lee
-
-Isac Lee is a 4th year data science major at UCSD and is currently working on Professor Davidson’s Energy Justice Project to research the social implications and inequity of California’s transition to a low-carbon economy through solar PV. He hopes to use his educational background in data science to delve deeper into his personal interests in renewable energy and space exploration after graduation. In his free time, Isac loves to be active through sports/hikes and enjoys watching sci-fi movies/shows.
 
 ### Justin Lu
 
-I'm a Data Science major and a Math minor at UCSD. Some of my educational interests, particularly in Data Science, are machine learning and scalable analytics. I have also done research in the genetics field studying differential gene expression of mental disorders like Alzheimer's and exploring their genetic causes. In the Davidson Lab, I have been working on adding aggregation functionality to the Geodata Python package, as well as performing a project to find feasible areas for solar energy grids in China.
-
 ### Johnny Nguyen
-
-I am a Mechanical Engineering major with a specialization in Renewable Energy and Environmental Flows at UC San Diego. I am most interested in exploring the intersection of policy and engineering principles in my education and research and am currently working on the Western Clean Energy project. When I am not on campus, you can find me exploring coffee shops and eateries around the city.
 
 ### Yuanbo (Rambo) Shi
 
-I am a data science major 2021er with a specialization in data analysis, data mining, machine learning and deep learning. I am currently in the Geodata group implementing methods for masks and related computations on geospatial data. I am interested in applying data analysis to solve various social problems. I love playing my guitar and singing when I’m free.
-
 ### Arjun Sawhney
-
-I'm a fourth year undergraduate student in the Data Science program. I have long been passionate about sustainability & climate, data analysis, and art. Working with the geodata team in the Davidson lab has allowed me explore the confluence of these interests and expand my knowledge. I am currently conducting research on renewable resource assessment and planning in India through geospatial data analysis. My work attempts to answer pertinent questions regarding the extent to which prioritizing political suitability influences wind and solar potential in India.
-
 
 ### Huizhong (Sonia) Tan
 
-I am a second-year Master of Chinese Economics and Political Affairs student, with a focus on Chinese economics and industrial policy. I am interested in pursuing a career as a research analyst, since I am passionate about researching the impact of regulation and the interaction between government and enterprises on industry as well as macroeconomics. Working with Professor Davison on the low-carbon transition of the Chinese energy state-owned enterprises is providing me with an excellent opportunity to expand my research interests in renewable energy policies.
-
 ### Ananya Thridandam
-
-Ananya is an undergraduate Mechanical Engineering major specializing in Renewable Energy and Environmental Flows.  She is interested in pursuing a masters degree in engineering, and hopes to continue renewable energy research along the way.  She is currently researching regionalization and inter-state renewable energy trade in the western United States with the Davidson Lab.  Additionally, she is an active member of the student organization, Engineers for a Sustainable World at UCSD.
 
 ### Yunhan Zhang
 
-I am a fourth-year student majoring in Data Science & Joint Major of Mathematics and Economics. I am currently working on data extraction and analysis with the China Power Market team in Dr. Davidson's lab. We are streamlining the workflow of scraping data from multiple sources and types. My personal interest is exploring how could data can help market decisions.
 
 [21ccc]: http://china.ucsd.edu/
 [cdl]: http://chinadatalab.ucsd.edu/projects/
