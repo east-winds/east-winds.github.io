@@ -16,7 +16,7 @@ Previously, I was a post-doctoral research fellow in the [Harvard Kennedy School
 
 [**Download CV**](https://drive.google.com/file/d/1K7R3tf54fY_FYJubj97W3yP5Oazb3Fci/view?usp=sharing)
 
-My office locations (when on-campus activities resume):
+My office locations:
 - MAE: [EBUII][ebuii]-465 (4th floor)
 - GPS: [RBC][rbc]-1414 (4th floor)
 
@@ -55,6 +55,17 @@ I was previously a postdoctoral fellow at the Idaho National Laboratory and the 
 
 I am a third year student at UCSD majoring in Math-Economics and minoring in Data Science. I am interested in the stories behind the data and hope to use my knowledge of econometrics and machine learning algorithms to dig deeper into the information behind the data. Currently, I am working on the China Energy SOE team, analyzing corporate-level finances and researching employee replacement in China to achieve low-carbon economy goals. In my spare time, I enjoy working out with friends and preparing cuisines from around the world.
 
+### Yumeng Liu
+![Portrait Yumeng Liu <](https://drive.google.com/uc?export=view&id=1F1oDj0HB_S_uLS-rQOgZF2LgjHkMgRIC)
+
+Yumeng is pursuing a Master of Public Policy in the School of Global Policy and Strategy at UCSD. She is interested in climate change and environmental policy and the policy impacts. Yumeng holds a Bachelor of Laws from Peking University. Prior to UCSD, she interned in several environmental NGOs.
+
+### Xiqiang Liu
+![Portrait Xiqiang Liu <](https://drive.google.com/uc?export=view&id=10LRi-doqfOu7zrfJ9D121kipmwP9Ql-Z)
+
+I am a fourth-year Data Science student with experience in data analysis and machine learning. At Davidson Lab, I am working on the Geodata project under the guidance of Professor Davidson, where I am currently creating an interface for efficient wind speed modeling. Additionally, I have also added various features, trying to make the overall analysis process easier to use for users with user-friendly prompts and interfaces.
+
+
 ### Jenny Nicolas
 ![Portrait Jenny Nicolas <](https://drive.google.com/uc?export=view&id=1o6LYmCVQjcvUaiRmmesSnmNPbPkcrFKZ)
 
@@ -64,6 +75,12 @@ Jenny is pursuing a Ph.D. in Materials Science and Engineering at UCSD. She is i
 ![Portrait Dinah Shi <](https://drive.google.com/uc?export=view&id=1eH-wRoNXd1OXwDjIoeL0keMsJkddcro-)
 
 Dinah is pursuing a Master of Chinese Economic and Political Affairs in the School of Global Policy and Strategy at UCSD with a specialization in Chinese Environment. She is interested in the engineering and policy implications of decarbonization of Chinese energy systems. Dinah holds a Bachelor of Software Engineering from the University of Waterloo. Prior to UCSD, she worked as a software engineer in private industry.
+
+### Yuting (Christine) Wan
+![Portrait Christine Wan <](https://drive.google.com/uc?export=view&id=1EvHiMYMdxzdgULYdKNEJ32OzIcmojRby)
+
+Christine is pursuing a Master of International Affairs in the School of Global Policy and Strategy at UCSD with a specialization in international economics and management. Her research interest lies in the supply chain and national security concerns of the U.S. and China. Before joining Davidson Lab, she worked at the UC Institute on Global Conflict and Cooperation, where she conducted research on China’s battery supply chain. She holds a bachelor’s degree in international politics from Fudan University. In her free time, she enjoys reading histories and literature, and is an enthusiastic traveler.
+
 
 ### Dr. Ming Wei
 ![Portrait Ming Wei <](https://drive.google.com/uc?export=view&id=1F9xdfFlNPQa_RLibQttbqnUZ2gXt-grk)
