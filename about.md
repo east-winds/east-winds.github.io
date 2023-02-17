@@ -55,16 +55,20 @@ I was previously a postdoctoral fellow at the Idaho National Laboratory and the 
 
 I am a third year student at UCSD majoring in Math-Economics and minoring in Data Science. I am interested in the stories behind the data and hope to use my knowledge of econometrics and machine learning algorithms to dig deeper into the information behind the data. Currently, I am working on the China Energy SOE team, analyzing corporate-level finances and researching employee replacement in China to achieve low-carbon economy goals. In my spare time, I enjoy working out with friends and preparing cuisines from around the world.
 
-### Yumeng Liu
-![Portrait Yumeng Liu <](https://drive.google.com/uc?export=view&id=1F1oDj0HB_S_uLS-rQOgZF2LgjHkMgRIC)
-
-Yumeng is pursuing a Master of Public Policy in the School of Global Policy and Strategy at UCSD. She is interested in climate change and environmental policy and the policy impacts. Yumeng holds a Bachelor of Laws from Peking University. Prior to UCSD, she interned in several environmental NGOs.
-
 ### Xiqiang Liu
 ![Portrait Xiqiang Liu <](https://drive.google.com/uc?export=view&id=10LRi-doqfOu7zrfJ9D121kipmwP9Ql-Z)
 
 I am a fourth-year Data Science student with experience in data analysis and machine learning. At Davidson Lab, I am working on the Geodata project under the guidance of Professor Davidson, where I am currently creating an interface for efficient wind speed modeling. Additionally, I have also added various features, trying to make the overall analysis process easier to use for users with user-friendly prompts and interfaces.
 
+### Yumeng Liu
+![Portrait Yumeng Liu <](https://drive.google.com/uc?export=view&id=1F1oDj0HB_S_uLS-rQOgZF2LgjHkMgRIC)
+
+Yumeng is pursuing a Master of Public Policy in the School of Global Policy and Strategy at UCSD. She is interested in climate change and environmental policy and the policy impacts. Yumeng holds a Bachelor of Laws from Peking University. Prior to UCSD, she interned in several environmental NGOs.
+
+### Chen (Pammy) Long
+![Portrait Pammy Long <](https://drive.google.com/uc?export=view&id=1FFMqH4YJHd5N0tsdOttFT8FGgrl7tS-e)
+
+Chen is pursuing a Master's degree in Public Policy at the School of Global Policy and Strategy of UCSD. She's interested in financial analysis and company operation improvement. Chen holds a Bachelor of Management from the Shanghai University of Finance and Economics. Prior to UCSD, she interned at PwC as an assurance intern and at several consulting firms as a part-time assistant.
 
 ### Jenny Nicolas
 ![Portrait Jenny Nicolas <](https://drive.google.com/uc?export=view&id=1o6LYmCVQjcvUaiRmmesSnmNPbPkcrFKZ)
