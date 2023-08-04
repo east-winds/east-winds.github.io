@@ -36,7 +36,7 @@ Apply basic techniques to speed up computational times based on what is happenin
 
 
 
-### MAE 207: Electric Power Systems Modeling
+### MAE 243: Electric Power Systems Modeling
 
 #### Catalog Description
 
