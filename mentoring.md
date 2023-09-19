@@ -20,7 +20,7 @@ image: /img/ucsd_campus_small.png
 #### Postdoc
 **We are hiring for one or more postdocs to support open modeling of decarbonization in China**. See the [job announcement](/2022-11-06-postdoc-open-modeling-decarbonization-china/) for more information.
 
-
+<h3 align="center">* * *</h3>
 
 
 ### Mechanical and Aerospace Engineering
