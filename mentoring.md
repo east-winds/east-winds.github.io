@@ -5,15 +5,22 @@ image: /img/ucsd_campus_small.png
 ---
 
 
-### Openings
+### Lab Openings
 
-**We are hiring for one or more postdocs to support open modeling of decarbonization in China**. See the [job announcement](/2022-11-06-postdoc-open-modeling-decarbonization-china/) for more information.
+#### Undergrad
+**We are looking for one or more research assistants to join a new project on India-China clean energy trade**. See the [job announcement](/2023-09-19-researcher-china-india-clean-energy-trade/) for more information.
 
+#### PhD and MS
 **We are recruiting PhD and MS students to join the lab.** Please include in your inquiry (**{{ site.author.email }}**):
 
 - CV and transcript(s)
-- Research interests (the team's [research areas](/research/) are a good start to see what we do, but we are interested in what you want to do)
+- Research interests (the team's [research areas](/research/) are a good start to see what we do, but we are also interested in what you want to do)
 - If you are a fellowship recipient with funding
+
+#### Postdoc
+**We are hiring for one or more postdocs to support open modeling of decarbonization in China**. See the [job announcement](/2022-11-06-postdoc-open-modeling-decarbonization-china/) for more information.
+
+
 
 
 ### Mechanical and Aerospace Engineering

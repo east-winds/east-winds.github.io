@@ -7,19 +7,16 @@ published: true
 <br>
 
 
-The Davidson Lab focuses on the **engineering implications** and **institutional conflicts** inherent in deploying **low-carbon energy at scale**. We have particular interests in understanding the **political systems of Asia** (with a focus on China and India) as well as the **western U.S.** Our [research topics](/research/) include renewable resource assessments, power system operations, and political economy of markets:
+The Davidson Lab focuses on the **engineering implications** and **institutional conflicts** inherent in deploying **low-carbon energy at scale**. We have particular interests in understanding the **political systems of Asia** (with a focus on China and India) as well as the **western U.S.** Our [research topics](/research/) include renewable resource assessments, power system operations, and political economy of markets. Read more [about the lab](/about/).
 
 [![Research topics](/img/index_images.png)](/research/)
 
 <br>
 
-**We are recruiting PhD and MS students to join the lab:** Please see the [academic programs and mentoring opportunities](/mentoring/) page for more information.
+**We are recruiting PhD, MS and undergraduate students to join the lab!**
 
+Please see the [academic programs and mentoring opportunities](/mentoring/) page for more information.
 
-
-<br>
-
-Prof. Davidson is an assistant professor in the [School of Global Policy and Strategy](http://gps.ucsd.edu/) and the [Mechanical and Aerospace Engineering Department](http://maeweb.ucsd.edu/) at the University of California, San Diego. He is a faculty member with the [21st Century China Center][21ccc] the [Center for Commerce and Diplomacy][ccd], and the [Japan Forum for Innovation and Technology][jfit], all located at UC San Diego. He is currently a fellow with the [Public Intellectuals Program at the National Committee on U.S.-China Relations](https://www.ncuscr.org/program/public-intellectuals-program). He is also a fellow with the [Initiative for Sustainable Energy Policy](http://sais-isep.org/) at Johns Hopkins SAIS. Read more [here](/about/).
 
 
 
