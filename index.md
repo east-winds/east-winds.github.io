@@ -13,7 +13,7 @@ The Davidson Lab focuses on the **engineering implications** and **institutional
 
 <br>
 
-**We are recruiting PhD, MS and undergraduate students to join the lab!**
+**We are recruiting across all levels--PhD, MS and undergraduate students, and staff researchers!**
 
 Please see the [academic programs and mentoring opportunities](/mentoring/) page for more information.
 
