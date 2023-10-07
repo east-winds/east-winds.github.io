@@ -7,6 +7,10 @@ image: /img/ucsd_campus_small.png
 
 ### Lab Openings
 
+#### Staff
+**We are looking for a staff research associate to join a project aligning China's market reforms with carbon neutrality**. See the [job announcement](/2023-10-07-staff-research-associate-China-power-grid/) for more information.
+
+
 #### Undergrad
 **We are looking for one or more research assistants to join a new project on India-China clean energy trade**. See the [job announcement](/2023-09-19-researcher-china-india-clean-energy-trade/) for more information.
 
