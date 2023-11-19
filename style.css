@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500;600;700&family=Montserrat:wght@400;500&family=Mulish:ital,wght@0,400;1,500&family=Nunito+Sans&family=Roboto:wght@300;400&display=block');
+
+body {
+  margin: 0;
+  font-family: Montserrat, sans-serif;
+}
+
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+#main-content-container {
+  padding: 18px;
+  background-color: #ececee;
+  text-align: center;
+  width: 65vw;
+  min-width: 250px;
+  max-width: 600px;
+  border-radius: 8px;
+  border-left: 4px solid #fcaf17;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 6px 4px 11px 1px rgba(0,0,0,0.48);
+  -webkit-box-shadow: 6px 4px 11px 1px rgba(0,0,0,0.48);
+  -moz-box-shadow: 6px 4px 11px 1px rgba(0,0,0,0.48);
+}
+
+#logo {
+  width: 50%
+}
