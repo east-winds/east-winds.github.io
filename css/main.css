@@ -783,3 +783,28 @@ td.gutter {
     width: 100%;
     height: 100%;
 }
+
+
+/* -- Redirect to new site -- */
+
+#new-site-interrupt-container{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255,255,255,0.9);
+  z-index: 2000;
+}
+
+#new-site-interrupt {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  width: 70vw;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 8px;
+}
