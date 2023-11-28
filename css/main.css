@@ -803,8 +803,15 @@ td.gutter {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: white;
-  width: 70vw;
+  width: 600px;
+  max-width: 75vw;
   height: auto;
-  border: 1px solid black;
   border-radius: 8px;
+  text-align: center;
+  box-shadow: 6px 4px 11px 1px rgba(0,0,0,0.48);
+  padding: 24px;
+}
+
+#new-site-interrupt p {
+  font-size: 14pt;
 }
